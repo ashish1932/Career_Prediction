@@ -1,0 +1,78 @@
+{
+  "AI/ML Engineer": {
+    "skills": [
+      "TensorFlow or PyTorch",
+      "SQL & NoSQL",
+      "Data Structures & Algorithms",
+      "Docker & Kubernetes",
+      "ML Ops"
+    ],
+    "courses": [
+      {
+        "title": "Deep Learning Specialization \u2013 Andrew Ng",
+        "url": "https://www.coursera.org/specializations/deep-learning"
+      },
+      {
+        "title": "Machine Learning with Python \u2013 FreeCodeCamp",
+        "url": "https://www.freecodecamp.org/learn/machine-learning-with-python/"
+      }
+    ]
+  },
+  "Developer": {
+    "skills": [
+      "React / Angular",
+      "REST APIs",
+      "Git & GitHub",
+      "Unit Testing",
+      "CI/CD pipelines"
+    ],
+    "courses": [
+      {
+        "title": "The Complete Web Developer \u2013 Udemy",
+        "url": "https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/"
+      },
+      {
+        "title": "JavaScript Algorithms & Data Structures \u2013 freeCodeCamp",
+        "url": "https://freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+      }
+    ]
+  },
+  "Analyst": {
+    "skills": [
+      "Advanced Excel",
+      "SQL & DBMS",
+      "Power BI / Tableau",
+      "Statistics",
+      "Storytelling"
+    ],
+    "courses": [
+      {
+        "title": "Google Data Analytics Professional Certificate",
+        "url": "https://coursera.org/professional-certificates/google-data-analytics"
+      },
+      {
+        "title": "Tableau for Beginners \u2013 Udemy",
+        "url": "https://www.udemy.com/course/tableau10/"
+      }
+    ]
+  },
+  "Business/Management": {
+    "skills": [
+      "Project Management",
+      "Agile & Scrum",
+      "Budgeting",
+      "Stakeholder Communication",
+      "Leadership"
+    ],
+    "courses": [
+      {
+        "title": "Project Management Professional (PMP)",
+        "url": "https://www.pmi.org/certifications/project-management-pmp"
+      },
+      {
+        "title": "Agile with Atlassian Jira \u2013 Coursera",
+        "url": "https://www.coursera.org/learn/agile-with-atlassian-jira"
+      }
+    ]
+  }
+}

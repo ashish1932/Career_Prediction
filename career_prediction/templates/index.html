@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Career Prediction System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f8ff;
+            padding: 30px;
+            max-width: 900px;
+            margin: auto;
+        }
+
+        .banner-row {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .banner-row img {
+            height: 80px;
+        }
+
+        h2 {
+            text-align: center;
+            color: #1e90ff;
+            font-size: 28px;
+            margin-bottom: 30px;
+        }
+
+        form {
+            background: #fff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+            transition: all 0.3s ease;
+        }
+
+        label {
+            display: block;
+            margin-top: 15px;
+            font-weight: bold;
+            color: #1c1c1c;
+        }
+
+        input, select, button {
+            width: 100%;
+            padding: 12px;
+            margin-top: 6px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+            box-sizing: border-box;
+            transition: all 0.2s ease;
+        }
+
+        input:focus, select:focus {
+            border-color: #1e90ff;
+            outline: none;
+            box-shadow: 0 0 5px rgba(30, 144, 255, 0.3);
+        }
+
+        button {
+            background-color: #1e90ff;
+            color: white;
+            font-weight: bold;
+            border: none;
+            cursor: pointer;
+            transition: 0.3s ease;
+            margin-top: 20px;
+        }
+
+        button:hover {
+            background-color: #1c86ee;
+        }
+
+        ::placeholder {
+            color: #aaa;
+            font-style: italic;
+        }
+
+        .section-divider {
+            border-top: 1px solid #ddd;
+            margin: 25px 0;
+        }
+
+        .result {
+            background: #e0f7e9;
+            padding: 20px;
+            margin-top: 25px;
+            border-radius: 10px;
+            border: 1px solid #b2e0c2;
+        }
+
+        .result h3 {
+            margin-bottom: 15px;
+        }
+
+        .skill-tag {
+            display: inline-block;
+            padding: 6px 10px;
+            background: #e8f0fe;
+            border-radius: 20px;
+            margin: 3px;
+            font-size: 13px;
+            color: #1e90ff;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- ✅ Logo Banner Centered -->
+    <div class="banner-row" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
+    <img src="{{ url_for('static', filename='images/CubeAI_Logo.png') }}" alt="Left Logo" style="height: 60px;">
+    <img src="{{ url_for('static', filename='images/CubeAiSolutiion.png') }}" alt="Company Banner" style="height: 80px;">
+    <img src="{{ url_for('static', filename='images/CubeAI_Logo.png') }}" alt="Right Logo" style="height: 60px;">
+</div>
+
+
+    <h2>Career Prediction System</h2>
+
+    <!-- ✅ Career Form -->
+    <form method="POST" action="/predict">
+        <label for="name">👤 Name:</label>
+        <input id="name" name="name" type="text" required placeholder="Enter your name" value="{{ form.name or '' }}">
+
+        <label for="email">📧 Email:</label>
+        <input id="email" name="email" type="email" required placeholder="Enter your email" value="{{ form.email or '' }}">
+
+        <label for="age">🎂 Age:</label>
+        <input id="age" name="age" type="number" required placeholder="e.g. 21" value="{{ form.age or '' }}">
+
+        <label for="gender">🚻 Gender:</label>
+        <select id="gender" name="gender">
+            <option value="" disabled selected>Select Gender</option>
+            <option value="Male" {% if form.gender == "Male" %}selected{% endif %}>Male</option>
+            <option value="Female" {% if form.gender == "Female" %}selected{% endif %}>Female</option>
+        </select>
+
+        <div class="section-divider"></div>
+
+        <label for="stream">🎓 Stream:</label>
+        <input id="stream" name="stream" type="text" required placeholder="e.g. Computer Science" value="{{ form.stream or '' }}">
+
+        <label for="cgpa">📈 CGPA:</label>
+        <input id="cgpa" name="cgpa" step="0.01" type="number" required placeholder="e.g. 8.5" value="{{ form.cgpa or '' }}">
+
+        <label for="certifications">📜 Certifications:</label>
+        <input id="certifications" name="certifications" type="number" min="0" required placeholder="e.g. 2" value="{{ form.certifications or 0 }}">
+
+        <label for="internships">💼 Internships:</label>
+        <input id="internships" name="internships" type="number" min="0" required placeholder="e.g. 1" value="{{ form.internships or 0 }}">
+
+        <label for="skills">🛠️ Skills (comma-separated):</label>
+        <input id="skills" name="skills" type="text" required placeholder="e.g. Python, HTML, Excel" value="{{ form.skills or '' }}">
+        <div id="skill-preview"></div>
+
+        <button type="submit">🔍 Predict Career</button>
+    </form>
+
+    <!-- ✅ Result Section -->
+    {% if prediction %}
+    <div class="result">
+        <h3>Top Career: {{ prediction }}</h3>
+        <ul>
+            {% for label, score in top3 %}
+                <li><strong>{{ label }}</strong> – {{ score }}%</li>
+            {% endfor %}
+        </ul>
+        <form method="POST" action="/download-report">
+            {% for key, value in form.items() %}
+                <input type="hidden" name="{{ key }}" value="{{ value }}">
+            {% endfor %}
+            <input type="hidden" name="top3" value='{{ top3 | tojson }}'>
+            <button type="submit">📄 Download PDF Report</button>
+        </form>
+    </div>
+    {% endif %}
+
+    <!-- ✅ Live Skill Badge Preview -->
+    <script>
+        const skillInput = document.getElementById("skills");
+        const preview = document.getElementById("skill-preview");
+
+        skillInput.addEventListener("input", () => {
+            const skills = skillInput.value.split(',').map(s => s.trim()).filter(Boolean);
+            preview.innerHTML = skills.map(skill => `<span class="skill-tag">${skill}</span>`).join('');
+        });
+
+        // Initial render
+        skillInput.dispatchEvent(new Event('input'));
+    </script>
+
+</body>
+</html>

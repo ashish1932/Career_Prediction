@@ -1,0 +1,1005 @@
+Name,Age,Gender,Stream,CGPA,Skills,Interests,Certifications,Internships,Personality,TargetCareer
+Neha,21,M,ECE,7.1,AI,Management,5,3,—,ML Engineer
+Sara,20,F,IT,6.7,"Python, SQL",Business,4,0,—,Business Analyst
+Vikram,25,F,CSE,8.3,"AI, SQL",Tech,0,2,—,ML Engineer
+Amit,23,F,IT,7.1,"AI, C++",Management,3,3,—,AI Engineer
+Anjali,22,M,CSE,8.4,"Python, AI, Web",Management,5,3,—,ML Engineer
+Sara,22,M,ECE,7,"C++, Python",Data,2,1,—,Software Developer
+Neha,21,F,ME,8.9,"Data, C++, ML",Business,0,3,—,Data Scientist
+Amit,20,F,EEE,7.3,"C++, ML, Python",Tech,5,1,—,Software Developer
+Sara,25,F,CSE,7.9,"Data, Python",Tech,3,3,—,ML Engineer
+Simran,20,F,CSE,9.4,"Web, SQL, Python",Data,2,3,—,Data Scientist
+Ravi,22,F,EEE,7.1,"ML, Web, Data",Management,1,2,—,Manager
+Simran,23,F,ECE,7.7,SQL,Business,4,0,—,Data Scientist
+Simran,21,M,ME,8.8,ML,Tech,4,2,—,Business Analyst
+Anjali,20,M,IT,9.2,C++,Data,1,2,—,Business Analyst
+Ravi,22,F,IT,9.6,Web,Management,2,0,—,Business Analyst
+Neha,20,M,ECE,7.7,AI,Management,4,2,—,ML Engineer
+Vikram,25,M,IT,8.6,"SQL, Python",Data,3,2,—,ML Engineer
+Ravi,21,M,EEE,8.1,"ML, AI, Web",Management,2,1,—,ML Engineer
+Sara,20,F,EEE,9.7,"ML, Web",Data,4,1,—,Software Developer
+Vikram,25,M,ME,7.9,"Python, Web, ML",Management,0,3,—,Business Analyst
+John,23,F,CE,8,"Python, AI",Tech,1,1,—,Software Developer
+Priya,24,F,CSE,9.5,"Java, AI, C++",Tech,0,3,—,Business Analyst
+Sara,20,M,IT,7,"Java, Web",Tech,4,1,—,ML Engineer
+Simran,25,F,CE,7.3,"Python, ML, SQL",Data,3,2,—,Data Scientist
+Anjali,22,M,ECE,7.3,ML,Tech,1,0,—,AI Engineer
+Anjali,21,F,CSE,6.7,"ML, C++, Python",Data,0,0,—,Data Scientist
+Amit,21,F,EEE,9.1,AI,Data,1,1,—,Business Analyst
+Ravi,21,M,ME,8.6,"SQL, Python",Business,5,0,—,AI Engineer
+Karan,25,F,ME,8.7,"ML, Web",Data,1,1,—,ML Engineer
+Sara,22,F,CE,9.5,"SQL, Web",Tech,0,2,—,ML Engineer
+Vikram,21,F,ME,6.6,"AI, SQL",Business,3,3,—,Software Developer
+Neha,20,F,CE,8.9,"Python, C++, Data",Management,3,1,—,Business Analyst
+Karan,22,F,ME,6.8,"Java, C++, AI",Management,3,2,—,ML Engineer
+Anjali,23,F,CSE,9,"Web, AI",Business,0,2,—,AI Engineer
+Sara,24,F,CE,8.2,"Web, ML",Tech,3,0,—,Manager
+Anjali,24,M,ME,8.5,"Data, AI",Data,5,3,—,Data Scientist
+Amit,22,M,IT,9.4,"Python, Web, SQL",Data,2,3,—,Software Developer
+Anjali,23,M,ME,7.6,"Web, Java",Management,2,3,—,Business Analyst
+Sara,21,F,CE,9.4,"ML, C++",Business,5,1,—,Business Analyst
+Amit,24,F,EEE,9.4,"Python, ML, Data",Management,1,1,—,Software Developer
+Amit,20,F,IT,8.2,Java,Tech,5,1,—,Software Developer
+Simran,23,M,EEE,9,"ML, SQL, Data",Management,0,2,—,AI Engineer
+Karan,24,M,IT,6.9,Data,Management,3,3,—,Business Analyst
+Priya,23,M,IT,7,ML,Data,0,3,—,AI Engineer
+Simran,25,F,CSE,9.2,AI,Business,1,3,—,ML Engineer
+Priya,20,F,EEE,9.5,SQL,Business,1,1,—,Data Scientist
+Neha,21,F,ECE,9.5,"SQL, Python, C++",Management,1,1,—,ML Engineer
+Simran,25,M,ECE,6.7,Data,Data,4,1,—,Business Analyst
+Neha,22,F,ME,10,"Java, SQL, Data",Business,2,0,—,AI Engineer
+Anjali,25,F,CE,6.7,Java,Management,0,1,—,Data Scientist
+Vikram,22,F,IT,9.6,"Data, Java, SQL",Business,0,2,—,Data Scientist
+John,22,M,CSE,7.7,Python,Business,1,0,—,ML Engineer
+Ravi,20,M,CE,8.5,"AI, Python",Data,4,0,—,AI Engineer
+Simran,22,M,ECE,8.5,"ML, SQL, Python",Tech,4,2,—,Business Analyst
+Karan,21,M,ME,8.1,"Data, AI",Management,2,0,—,Software Developer
+Ravi,24,M,ECE,8.3,"ML, SQL",Management,0,0,—,Business Analyst
+Amit,23,F,CE,9.7,"SQL, Web, Data",Business,0,0,—,Data Scientist
+Karan,22,F,CE,6.5,SQL,Data,4,0,—,Business Analyst
+Vikram,23,M,ECE,7.3,"Python, Data",Tech,0,0,—,AI Engineer
+Sara,25,M,ECE,8.1,"SQL, Web, Java",Management,4,3,—,AI Engineer
+Neha,21,M,ME,9.3,Python,Business,1,3,—,Data Scientist
+Simran,25,F,ECE,6.6,"Web, AI, C++",Tech,2,2,—,AI Engineer
+Vikram,22,F,ECE,9.3,"C++, Java",Management,4,3,—,Software Developer
+Amit,20,M,ME,8.7,Java,Tech,4,0,—,ML Engineer
+Simran,21,M,CE,7.6,"Java, Python, Web",Management,1,2,—,Manager
+Simran,22,F,ME,7.8,"C++, Python, Java",Management,4,2,—,ML Engineer
+Sara,25,F,CE,8.8,"AI, Data, SQL",Business,5,1,—,AI Engineer
+Ravi,23,F,IT,8.1,Python,Management,3,1,—,Software Developer
+Anjali,20,M,ECE,6.7,"Java, Python",Tech,2,0,—,ML Engineer
+Karan,20,F,CSE,7.1,"SQL, Java, AI",Management,1,1,—,Manager
+Karan,25,F,CE,9.3,"Data, ML, Java",Management,4,2,—,ML Engineer
+Anjali,22,M,ME,9,"C++, Python, Data",Business,3,2,—,Data Scientist
+Ravi,25,M,CSE,7.7,"AI, Python",Data,5,3,—,AI Engineer
+Neha,21,F,CSE,8.1,"C++, ML, Python",Tech,3,3,—,Business Analyst
+Ravi,25,F,ME,9.9,Python,Business,4,1,—,AI Engineer
+John,25,M,CE,6.8,"Data, AI, Web",Tech,4,1,—,Software Developer
+John,22,F,CSE,7.1,"Web, Python, SQL",Business,3,0,—,Business Analyst
+Simran,23,F,ME,7.5,"Python, Web, C++",Data,1,2,—,Business Analyst
+Vikram,25,M,EEE,9.1,"Web, Java",Management,4,3,—,Data Scientist
+Vikram,24,M,CSE,7.6,Data,Data,0,3,—,Business Analyst
+Karan,22,F,ECE,6.6,Web,Data,4,1,—,Software Developer
+John,23,M,CSE,7.8,SQL,Data,3,2,—,Manager
+Ravi,24,F,ME,7.6,Web,Business,1,1,—,Software Developer
+Simran,21,M,EEE,9.6,"SQL, Python, Web",Data,1,2,—,Software Developer
+Sara,21,F,CSE,8.4,"Web, C++",Data,1,2,—,Data Scientist
+Simran,21,F,CSE,8.2,"Web, ML, Data",Business,2,0,—,Business Analyst
+Sara,21,F,CE,9.3,"Python, Web",Data,0,1,—,Data Scientist
+Karan,23,F,CSE,8,Data,Tech,5,0,—,AI Engineer
+Amit,25,F,ME,8.8,AI,Data,4,1,—,ML Engineer
+Priya,21,M,EEE,8.7,"ML, C++",Business,3,1,—,AI Engineer
+Anjali,21,M,CE,8.2,"Java, ML",Data,5,3,—,AI Engineer
+Amit,25,M,CSE,7.5,"AI, SQL, Java",Tech,3,1,—,Software Developer
+Sara,24,F,CSE,8.4,Python,Data,5,1,—,Business Analyst
+Ravi,20,F,CE,10,Python,Data,2,0,—,AI Engineer
+Neha,23,F,IT,9.8,"Python, Data",Management,0,2,—,Manager
+Neha,20,F,ME,8.6,"Python, Java",Data,4,2,—,Software Developer
+Neha,22,F,CE,8.6,C++,Business,5,0,—,Manager
+Sara,21,M,ME,8.1,"Web, Python, Data",Data,3,1,—,ML Engineer
+Karan,22,M,EEE,9.9,"Data, SQL",Tech,1,2,—,Business Analyst
+Sara,23,F,ME,7.8,"SQL, AI",Business,0,1,—,Data Scientist
+Neha,25,M,CSE,9.9,"Python, ML",Data,1,0,—,AI Engineer
+Sara,25,F,IT,6.5,"ML, SQL",Data,4,1,—,Business Analyst
+Ravi,22,M,EEE,7.7,"Python, AI, Data",Business,4,0,—,AI Engineer
+Anjali,24,F,CSE,9.8,ML,Management,2,1,—,AI Engineer
+Karan,25,M,CSE,9.6,"Data, Web, Python",Management,5,1,—,Data Scientist
+John,24,F,ECE,8.4,"Python, Data",Business,0,3,—,Manager
+Ravi,23,M,ME,7.6,Python,Tech,2,2,—,AI Engineer
+Neha,24,F,IT,6.6,SQL,Business,1,1,—,AI Engineer
+Karan,25,F,CSE,6.6,Java,Business,1,0,—,ML Engineer
+Simran,20,F,CSE,9.1,ML,Data,4,0,—,ML Engineer
+Priya,24,M,CSE,6.6,"Java, ML, Web",Management,0,0,—,Data Scientist
+Simran,20,M,CE,6.7,C++,Tech,4,1,—,Manager
+Vikram,25,F,ME,7.4,"AI, ML, C++",Business,3,2,—,Software Developer
+Neha,20,F,CE,8.8,"Data, ML",Tech,5,1,—,Software Developer
+Sara,25,F,CE,8.3,"Python, AI, Web",Business,4,3,—,Business Analyst
+Ravi,21,M,ME,8.8,"Python, Java, C++",Management,1,2,—,AI Engineer
+Anjali,24,F,EEE,9,"ML, Data",Tech,4,2,—,AI Engineer
+Ravi,23,M,CE,9.2,"Data, C++",Business,2,0,—,Software Developer
+Sara,24,M,CSE,9.4,Web,Tech,4,3,—,AI Engineer
+Anjali,24,F,CE,9,"C++, Python, AI",Business,2,1,—,ML Engineer
+John,21,F,IT,7.6,"SQL, Java, Web",Management,1,1,—,Data Scientist
+Vikram,20,F,IT,8.2,"Data, AI",Data,3,3,—,Manager
+Amit,21,M,CE,8.2,"ML, SQL, AI",Tech,0,3,—,Business Analyst
+Vikram,20,F,IT,9.1,Java,Management,5,0,—,AI Engineer
+Sara,20,M,ME,8.4,"AI, Python",Business,3,0,—,Data Scientist
+Simran,24,F,ME,6.7,"Python, AI",Data,0,2,—,AI Engineer
+Karan,21,M,IT,7.2,"Python, Data, SQL",Business,3,0,—,Data Scientist
+Priya,20,F,IT,7.2,"Java, SQL, Data",Tech,2,2,—,AI Engineer
+Sara,22,F,EEE,6.7,"ML, C++",Business,4,1,—,Data Scientist
+Simran,22,M,ME,7.3,"AI, SQL",Data,1,1,—,Data Scientist
+Karan,20,F,ECE,8.2,Java,Data,0,0,—,ML Engineer
+Neha,23,F,EEE,9.7,ML,Management,1,3,—,Manager
+Vikram,22,F,EEE,7.6,"AI, SQL, Java",Management,5,1,—,Data Scientist
+Priya,21,F,IT,7.3,Python,Business,4,0,—,ML Engineer
+Simran,24,M,CE,8.7,"ML, SQL",Business,0,2,—,ML Engineer
+Ravi,21,M,EEE,10,"Java, SQL",Business,5,0,—,Manager
+Ravi,22,M,IT,6.6,"Data, Web",Data,4,0,—,Software Developer
+Karan,24,F,EEE,7.5,"Java, ML",Tech,2,0,—,Data Scientist
+Anjali,22,F,EEE,7.8,"AI, Web",Tech,2,3,—,Software Developer
+Ravi,23,M,CE,9.6,"SQL, Python, Data",Business,3,0,—,Manager
+Priya,24,M,ECE,7.4,Java,Management,4,2,—,AI Engineer
+Simran,21,M,CSE,9.4,"Web, Data, C++",Tech,2,2,—,Software Developer
+Neha,22,M,CE,6.7,ML,Tech,2,3,—,Manager
+Ravi,20,F,CSE,8.9,Data,Data,4,0,—,Software Developer
+John,25,M,CE,9.2,"SQL, AI, Java",Tech,0,2,—,Manager
+John,21,F,ME,9.7,AI,Management,2,1,—,AI Engineer
+John,24,M,ECE,7.8,"Web, C++, Java",Data,5,2,—,Manager
+Priya,21,F,CSE,7.2,"SQL, C++, ML",Business,4,0,—,Software Developer
+John,23,M,CSE,9.7,"AI, Data, Java",Data,5,2,—,AI Engineer
+Anjali,22,M,IT,6.9,"SQL, AI",Data,0,3,—,Software Developer
+Neha,24,F,ME,9.8,"C++, ML",Data,0,1,—,Software Developer
+Ravi,24,M,ECE,8.7,Python,Tech,0,1,—,AI Engineer
+John,24,F,ME,9.1,"Python, SQL",Tech,4,0,—,AI Engineer
+Anjali,24,M,ME,7.3,"Java, Data, AI",Business,3,2,—,Software Developer
+Anjali,23,M,ME,8.6,"Python, ML",Tech,4,2,—,Business Analyst
+John,24,F,IT,9.1,ML,Tech,2,1,—,Software Developer
+Anjali,21,M,IT,6.7,"SQL, Web",Data,3,1,—,Business Analyst
+Vikram,23,F,CSE,8,"Python, C++",Tech,1,1,—,Software Developer
+John,23,F,ME,8.3,"Data, Java",Business,2,3,—,Manager
+Anjali,21,M,ECE,8.5,"ML, Java",Tech,2,0,—,Data Scientist
+Ravi,22,M,IT,9.3,Python,Business,0,0,—,Manager
+Priya,24,F,CE,7.2,Python,Management,4,0,—,Software Developer
+Priya,24,F,ME,8.4,SQL,Data,5,0,—,Business Analyst
+Anjali,24,F,IT,7.1,"AI, C++, Data",Tech,4,1,—,Business Analyst
+Karan,20,F,EEE,9.1,"Python, Data, AI",Tech,4,3,—,Manager
+Ravi,21,F,CE,9.4,"Web, Python, Data",Management,1,1,—,ML Engineer
+Sara,20,M,IT,7.1,Data,Management,2,0,—,Software Developer
+Neha,25,F,CSE,9.1,"Python, C++, SQL",Data,4,1,—,Business Analyst
+Priya,21,F,ECE,6.6,Web,Management,2,0,—,Business Analyst
+Ravi,25,F,ECE,8.2,SQL,Tech,5,1,—,Manager
+Sara,24,M,EEE,9,"Data, ML, AI",Data,5,2,—,Software Developer
+Priya,24,M,CSE,7.3,ML,Data,1,3,—,ML Engineer
+Neha,24,F,IT,8.6,AI,Tech,4,2,—,Manager
+Simran,23,F,CSE,6.7,"Data, Web",Management,1,2,—,Manager
+Karan,20,F,IT,8.6,"AI, Data",Management,0,0,—,Data Scientist
+John,24,M,CE,9.1,"SQL, ML",Data,2,1,—,ML Engineer
+Karan,21,F,CSE,9.3,Java,Business,5,2,—,Business Analyst
+John,21,F,IT,6.9,"Python, ML",Business,1,2,—,Software Developer
+Vikram,25,F,IT,8.9,"SQL, Java",Tech,2,2,—,Data Scientist
+Simran,21,F,CSE,9.8,"Python, SQL",Tech,3,3,—,Business Analyst
+Karan,20,F,CE,7.8,"ML, Python",Data,5,2,—,Software Developer
+Amit,22,M,CSE,7.5,"SQL, Java",Data,0,1,—,AI Engineer
+Karan,20,F,ME,6.8,"ML, Data, Python",Management,3,1,—,Data Scientist
+Vikram,21,F,EEE,9,"Web, C++, Java",Data,5,3,—,Data Scientist
+Ravi,25,F,CE,9.7,"C++, Web, ML",Tech,4,0,—,Software Developer
+Karan,23,M,ECE,9,"Web, ML",Management,3,3,—,Business Analyst
+John,22,M,CE,6.8,ML,Business,3,1,—,Data Scientist
+Karan,21,M,CSE,9.6,"C++, Data",Business,4,2,—,AI Engineer
+Vikram,25,F,ME,7.9,"Data, Web, AI",Tech,0,3,—,ML Engineer
+Priya,24,F,ME,6.6,Java,Business,2,2,—,Software Developer
+Karan,20,F,IT,7.3,"Data, Java, ML",Business,0,3,—,Software Developer
+Ravi,20,F,IT,8.4,ML,Management,3,3,—,Manager
+Karan,25,M,CE,7.6,"Data, AI",Tech,5,1,—,Software Developer
+John,21,F,EEE,9.6,"AI, SQL",Tech,0,2,—,Data Scientist
+Vikram,20,F,CE,7.6,AI,Tech,4,2,—,Business Analyst
+Vikram,23,M,CE,8.8,"AI, ML",Tech,0,1,—,Software Developer
+Priya,23,M,CE,8.6,"Web, Java, AI",Management,4,0,—,ML Engineer
+Simran,25,F,CE,7,"Data, Web, SQL",Management,2,2,—,Manager
+Sara,24,F,EEE,6.6,AI,Tech,5,0,—,AI Engineer
+Neha,21,F,ME,6.8,"SQL, AI",Tech,2,0,—,Business Analyst
+Vikram,24,F,EEE,10,"Web, AI",Business,2,1,—,Manager
+Ravi,25,M,ME,8.9,"C++, Web",Business,1,2,—,Manager
+Priya,21,M,CE,9.1,Data,Tech,5,0,—,Manager
+Neha,24,M,ECE,8.9,"Data, Web, Java",Data,5,2,—,AI Engineer
+Sara,20,M,EEE,9.5,SQL,Management,5,3,—,Manager
+Anjali,23,M,CE,8.5,"ML, Python, Java",Management,1,1,—,Business Analyst
+Amit,21,F,ECE,9.1,AI,Business,0,3,—,Data Scientist
+Priya,20,F,CE,8.5,"C++, Data, AI",Management,4,3,—,Data Scientist
+Anjali,25,F,IT,8.3,"Web, Java",Tech,4,2,—,ML Engineer
+Vikram,23,M,IT,7.2,"AI, Python",Data,3,2,—,AI Engineer
+Karan,23,M,ME,8.2,"Python, ML",Tech,4,0,—,ML Engineer
+Priya,25,F,ECE,9,ML,Business,0,2,—,Software Developer
+Sara,25,M,CSE,8.4,SQL,Business,3,2,—,Software Developer
+Priya,22,M,IT,7.5,"SQL, Java, Web",Business,0,3,—,ML Engineer
+Ravi,25,F,CE,8.2,AI,Management,0,1,—,Data Scientist
+Simran,23,M,EEE,9.6,"SQL, Java, Web",Tech,1,1,—,Software Developer
+Karan,22,M,ECE,7,Python,Business,4,1,—,Manager
+Anjali,21,F,ECE,6.8,"Java, Data, ML",Data,0,1,—,Software Developer
+Sara,24,M,CE,8.8,"Python, Data, Web",Data,2,0,—,ML Engineer
+Ravi,20,F,EEE,7.6,"Data, AI",Management,3,1,—,ML Engineer
+Sara,25,F,CSE,8.6,"C++, Web, Python",Business,5,2,—,Data Scientist
+Vikram,20,F,IT,8.5,"C++, Data, Python",Tech,1,0,—,ML Engineer
+Karan,22,M,CSE,7.7,"AI, ML, Web",Tech,0,2,—,AI Engineer
+Karan,23,F,CE,9.1,"SQL, AI, C++",Management,0,1,—,ML Engineer
+Amit,25,F,CSE,8.3,"Python, Java",Data,2,2,—,Manager
+Priya,20,M,ECE,9.8,ML,Business,2,0,—,Business Analyst
+Sara,21,F,CE,8,Web,Business,2,2,—,Manager
+Neha,25,M,ECE,9.9,Python,Data,2,0,—,Software Developer
+Simran,20,F,CE,6.6,"ML, SQL",Business,3,0,—,AI Engineer
+Simran,24,F,IT,9.9,"Web, ML, C++",Tech,2,3,—,ML Engineer
+Anjali,24,M,ME,6.7,"Data, Java, C++",Tech,4,1,—,Data Scientist
+Karan,23,M,CE,7,Java,Tech,1,3,—,Manager
+Anjali,20,M,CE,9.6,"Python, Data",Data,4,1,—,Manager
+Priya,22,F,CE,6.6,Data,Business,4,1,—,ML Engineer
+John,23,M,ME,9.4,"AI, ML, SQL",Data,3,3,—,ML Engineer
+Neha,24,F,CE,8,"Data, Python",Tech,2,1,—,Data Scientist
+Amit,23,F,ECE,9.4,"ML, Web, Java",Business,5,2,—,Business Analyst
+Amit,24,M,EEE,9.9,"Web, AI",Tech,2,1,—,Business Analyst
+Anjali,20,M,CE,7.9,"Data, Web, SQL",Business,2,0,—,AI Engineer
+Neha,22,M,ECE,8.8,"Python, Data",Business,4,3,—,Software Developer
+John,22,M,ECE,9.7,"Data, AI, ML",Business,1,2,—,AI Engineer
+Karan,22,M,ME,7.5,"Java, Python, ML",Tech,2,2,—,Data Scientist
+Neha,24,M,ECE,9.6,"ML, Data, AI",Data,5,3,—,ML Engineer
+Karan,22,M,EEE,7,"Python, ML",Business,3,1,—,Software Developer
+Neha,23,F,ECE,8.7,ML,Data,2,1,—,ML Engineer
+Sara,24,F,CE,7,C++,Management,4,2,—,Data Scientist
+Simran,23,M,EEE,9,Java,Business,2,1,—,Manager
+Ravi,22,M,EEE,9.4,"Data, Web, ML",Data,1,1,—,ML Engineer
+Priya,22,F,IT,9.5,Python,Business,2,0,—,AI Engineer
+Anjali,20,F,ME,8.1,"SQL, Python, C++",Data,1,0,—,AI Engineer
+Anjali,23,M,EEE,6.6,Web,Data,3,3,—,Software Developer
+Karan,25,F,IT,8.3,"Data, AI",Management,1,3,—,Software Developer
+Ravi,25,F,IT,8.3,Web,Business,4,1,—,AI Engineer
+Simran,20,M,CSE,8.8,"AI, SQL, Java",Management,0,0,—,Software Developer
+Neha,22,F,EEE,8.8,"Web, Data, Java",Business,4,3,—,AI Engineer
+Vikram,20,F,EEE,6.6,"Java, AI, Web",Tech,2,0,—,Software Developer
+Simran,25,M,EEE,6.7,"C++, Web, AI",Management,0,2,—,Data Scientist
+Anjali,23,F,ECE,9.8,"C++, SQL, Data",Business,1,3,—,ML Engineer
+Karan,20,F,ECE,6.9,ML,Tech,5,3,—,Data Scientist
+Simran,20,M,ME,9.2,AI,Business,4,3,—,Business Analyst
+John,25,M,CE,9.7,SQL,Data,3,0,—,Business Analyst
+Amit,23,M,ECE,8.3,AI,Management,3,2,—,AI Engineer
+Ravi,20,F,CE,7.9,"C++, ML",Data,4,2,—,Software Developer
+Simran,23,F,IT,7,"AI, ML",Business,0,0,—,Manager
+Sara,22,F,ME,9.9,SQL,Data,4,0,—,Business Analyst
+John,20,F,EEE,9.6,"ML, Web, SQL",Business,1,2,—,Business Analyst
+Simran,23,M,CE,7.8,"SQL, Data, C++",Tech,5,3,—,ML Engineer
+Neha,20,F,CSE,9.2,Web,Data,4,2,—,AI Engineer
+Anjali,24,M,EEE,7.8,"C++, SQL",Data,4,2,—,Software Developer
+Priya,21,M,CE,8.4,"Data, ML, Web",Management,3,3,—,Data Scientist
+Vikram,22,M,EEE,6.6,Java,Business,3,2,—,ML Engineer
+Vikram,21,F,ME,7.7,Java,Business,0,0,—,ML Engineer
+Neha,22,F,ECE,8.8,"ML, Java",Data,1,0,—,Data Scientist
+Amit,21,F,ME,6.9,"AI, ML",Management,0,1,—,Business Analyst
+Amit,21,F,CSE,7.9,ML,Data,3,2,—,Manager
+Vikram,22,M,CE,6.9,"AI, C++, ML",Management,3,0,—,ML Engineer
+Vikram,23,M,ECE,8,C++,Data,2,0,—,Data Scientist
+Priya,23,F,ECE,9.3,Data,Data,0,3,—,Data Scientist
+Ravi,21,M,EEE,7.9,"C++, Java, SQL",Management,4,1,—,Business Analyst
+Neha,24,M,IT,8.7,SQL,Business,0,0,—,Software Developer
+Karan,23,F,CE,9.9,SQL,Tech,4,3,—,Business Analyst
+Priya,21,M,IT,8.8,"SQL, ML, AI",Management,0,0,—,ML Engineer
+Simran,23,M,EEE,9.6,"SQL, Java, AI",Management,3,0,—,Business Analyst
+Ravi,20,F,CSE,8.1,"SQL, AI",Tech,2,1,—,ML Engineer
+Vikram,20,M,CSE,7.7,"SQL, Java",Tech,2,2,—,Data Scientist
+Neha,21,M,CE,7.4,"Data, C++",Data,5,1,—,Business Analyst
+Priya,20,F,CE,8.6,Web,Business,5,0,—,Data Scientist
+Neha,20,M,IT,9.2,"Web, SQL",Tech,1,3,—,Software Developer
+Priya,24,M,IT,7.9,"Data, Python, Web",Management,3,3,—,Business Analyst
+John,20,M,IT,9.3,"ML, Web, C++",Tech,1,2,—,Data Scientist
+Sara,23,F,ME,9.5,"C++, Python, SQL",Business,5,1,—,Business Analyst
+Simran,20,F,ME,7.1,Data,Data,1,0,—,Software Developer
+Karan,23,M,IT,8.8,SQL,Business,4,3,—,ML Engineer
+Karan,23,M,CE,9.7,"Python, Web",Business,1,1,—,Manager
+Simran,20,F,ECE,7.4,"Web, AI, C++",Data,2,1,—,Software Developer
+Anjali,25,M,ECE,7.2,"Web, SQL, AI",Management,4,3,—,ML Engineer
+Vikram,22,F,CE,6.8,SQL,Tech,3,3,—,ML Engineer
+Simran,22,F,CE,7.3,"Data, AI",Tech,5,0,—,ML Engineer
+Amit,23,M,ME,9.1,"Python, Data",Management,1,3,—,Business Analyst
+John,23,F,ME,7.4,Python,Business,3,3,—,Business Analyst
+Ravi,23,M,ECE,9.5,Python,Tech,1,0,—,Manager
+Vikram,24,F,CSE,7.8,C++,Tech,3,2,—,Data Scientist
+Amit,24,F,CSE,8.5,"ML, AI, Web",Data,3,2,—,Software Developer
+Ravi,20,F,EEE,9.8,"Data, Java",Business,1,1,—,Manager
+Sara,25,M,ECE,9.8,"Data, SQL",Management,2,3,—,AI Engineer
+John,20,M,ME,8.8,Web,Tech,2,0,—,Manager
+Neha,23,M,IT,9.5,"Python, AI",Management,3,2,—,Business Analyst
+Anjali,20,M,EEE,7.3,"SQL, Web",Tech,1,0,—,ML Engineer
+Vikram,22,F,CSE,8.1,"AI, Data, Java",Management,1,0,—,Manager
+John,21,M,ME,7.5,"Web, Data, ML",Business,0,2,—,Data Scientist
+Sara,22,M,ECE,9.1,"AI, Data, Java",Tech,4,2,—,Data Scientist
+Simran,24,F,CE,8.1,AI,Tech,5,2,—,Data Scientist
+Neha,25,M,CSE,7.2,"SQL, Web",Tech,1,2,—,AI Engineer
+Ravi,23,M,EEE,9.8,"Data, Python",Tech,1,1,—,ML Engineer
+John,23,M,EEE,7.8,"Web, SQL, Data",Business,1,2,—,Manager
+Vikram,25,M,EEE,6.8,"Java, C++",Data,2,0,—,Software Developer
+John,22,F,CE,8.2,"Python, C++, Data",Management,3,2,—,Data Scientist
+Priya,21,F,CE,7.6,Java,Tech,4,3,—,AI Engineer
+Anjali,23,M,CE,6.9,C++,Management,1,2,—,Business Analyst
+Priya,24,F,ECE,8.4,Data,Tech,3,3,—,Business Analyst
+Anjali,22,F,CE,9.9,Web,Business,0,2,—,Manager
+Ravi,25,M,IT,9.5,"Java, SQL",Tech,3,0,—,Software Developer
+Amit,21,F,ECE,6.7,"Web, SQL",Data,3,3,—,Business Analyst
+Simran,24,M,CE,6.9,"ML, Python, Java",Data,2,0,—,Business Analyst
+Amit,22,M,EEE,6.8,Data,Tech,0,3,—,Business Analyst
+Priya,20,M,ME,8.6,ML,Data,2,2,—,ML Engineer
+Neha,21,F,ECE,9.1,C++,Management,1,1,—,Data Scientist
+Sara,22,M,ME,9.4,"C++, SQL, Data",Tech,4,3,—,Manager
+Simran,21,F,ME,6.7,"Web, C++, AI",Tech,0,2,—,ML Engineer
+Simran,22,F,ME,8.5,Data,Data,5,0,—,Software Developer
+Karan,20,F,EEE,8.1,"Java, ML, Python",Business,5,2,—,Software Developer
+Simran,23,M,ECE,9.6,"Java, Python, AI",Management,3,0,—,AI Engineer
+Ravi,22,M,IT,8.5,"C++, Data",Management,5,2,—,Software Developer
+Anjali,20,M,ECE,9.2,"SQL, AI, Java",Business,0,0,—,Software Developer
+Karan,22,F,IT,8.9,C++,Business,1,2,—,Manager
+Sara,23,F,ME,9.8,Python,Data,2,3,—,AI Engineer
+Sara,22,F,ME,9.6,C++,Data,5,2,—,Manager
+Priya,22,F,CSE,7.9,"SQL, Java, ML",Business,5,1,—,Software Developer
+Sara,25,M,CSE,8.7,"Python, SQL",Tech,0,3,—,Business Analyst
+Karan,20,F,CE,6.9,Python,Tech,5,0,—,Software Developer
+Amit,25,F,IT,7,"Data, ML, Web",Business,2,1,—,Manager
+Anjali,23,M,ECE,6.6,Web,Business,5,2,—,AI Engineer
+Neha,20,F,ECE,9.2,"Python, Data, AI",Business,4,1,—,Business Analyst
+John,23,M,CSE,8.8,AI,Management,1,3,—,Software Developer
+Ravi,22,M,CSE,7.7,Data,Business,0,2,—,ML Engineer
+Karan,22,F,ME,6.5,ML,Business,2,2,—,Manager
+Amit,22,M,ME,8.4,Python,Tech,5,0,—,AI Engineer
+Sara,22,F,IT,7.1,"AI, C++, Python",Data,3,3,—,Software Developer
+Amit,24,M,ME,8.6,"Data, AI",Business,5,1,—,Software Developer
+Ravi,24,F,CE,8.6,"Java, C++",Management,5,1,—,Business Analyst
+Simran,22,M,CSE,6.9,"C++, SQL",Tech,1,0,—,Business Analyst
+Neha,25,F,IT,8.6,"Data, ML, AI",Tech,3,2,—,ML Engineer
+Vikram,24,F,ECE,6.9,"C++, Java, Web",Business,5,0,—,Manager
+John,24,M,IT,8.4,"AI, Web, Python",Tech,4,0,—,Business Analyst
+Sara,21,M,CSE,8,C++,Business,2,2,—,Data Scientist
+Karan,22,M,ME,8.6,"Java, ML",Tech,4,0,—,Business Analyst
+Simran,20,F,CE,7.6,"AI, Java",Tech,5,2,—,Manager
+Amit,22,M,CE,8,"Java, ML",Business,2,0,—,Software Developer
+John,20,M,ME,7.1,Data,Tech,3,1,—,Business Analyst
+Karan,22,M,ECE,7.8,SQL,Tech,2,3,—,Manager
+Sara,21,F,CE,7.9,Java,Business,5,3,—,ML Engineer
+Karan,25,M,IT,7.5,"Web, Python, AI",Tech,0,1,—,Business Analyst
+Sara,24,M,CSE,6.8,"Web, C++, Java",Data,4,3,—,ML Engineer
+Karan,25,M,ECE,9,Data,Tech,2,1,—,Data Scientist
+Simran,21,M,CE,8.5,Python,Tech,5,1,—,Software Developer
+Simran,22,M,EEE,9.3,"AI, ML, Java",Data,4,2,—,Business Analyst
+Neha,25,F,CE,7.1,"Web, Java, Python",Management,2,0,—,Software Developer
+John,25,F,CE,8.9,Java,Business,4,2,—,ML Engineer
+Neha,22,M,CE,7.4,"ML, SQL",Data,1,3,—,Business Analyst
+John,25,M,ME,8.9,Java,Business,1,3,—,Business Analyst
+John,25,F,ME,9.9,"Python, C++",Data,2,0,—,Manager
+Amit,23,F,EEE,9.8,"ML, Python",Business,0,2,—,Data Scientist
+Priya,20,F,ECE,8.1,"Python, ML",Tech,0,2,—,AI Engineer
+Karan,24,F,ME,8.5,"Web, Python, Data",Management,1,1,—,AI Engineer
+Ravi,22,M,IT,7.1,"Java, Data, SQL",Management,2,2,—,ML Engineer
+John,25,F,ECE,7.5,"Java, Python, Data",Management,4,0,—,AI Engineer
+Amit,25,M,IT,8,"C++, SQL, Python",Management,0,0,—,Manager
+Simran,23,F,CE,8,"C++, Web",Data,1,3,—,Business Analyst
+Amit,20,F,CSE,7.1,"SQL, Data, AI",Business,3,2,—,Data Scientist
+John,25,F,ME,9.9,"AI, Data",Data,1,0,—,Manager
+Neha,25,M,ECE,8.3,"C++, ML, AI",Tech,2,0,—,ML Engineer
+Priya,20,F,CE,7.8,"Python, Java",Business,3,1,—,AI Engineer
+Amit,24,M,ECE,7.8,"C++, Java",Business,1,0,—,Software Developer
+Ravi,21,F,EEE,9.2,Python,Management,4,3,—,Data Scientist
+Simran,24,M,ECE,7.4,"SQL, Java",Tech,4,2,—,AI Engineer
+John,25,F,IT,7.6,Data,Data,0,0,—,Business Analyst
+Amit,25,F,ME,9.1,SQL,Business,5,2,—,Data Scientist
+Simran,20,F,IT,9.6,"ML, Python",Business,0,2,—,Manager
+Anjali,25,M,ME,7.1,"SQL, Java",Business,0,0,—,Manager
+Karan,22,M,ECE,7.2,"SQL, C++",Management,4,2,—,Data Scientist
+Vikram,23,M,CE,9,C++,Tech,1,1,—,ML Engineer
+Sara,23,F,CSE,9.5,"C++, Java, ML",Management,2,1,—,Business Analyst
+Vikram,24,F,ECE,8,"SQL, AI",Business,2,3,—,Business Analyst
+Vikram,23,F,IT,8.5,Java,Data,1,1,—,ML Engineer
+Sara,22,F,CE,10,"AI, SQL",Tech,3,2,—,Data Scientist
+Ravi,21,F,CE,7.4,"AI, Web, SQL",Tech,4,0,—,Manager
+Anjali,21,M,CE,8.2,Data,Business,3,3,—,AI Engineer
+John,20,M,EEE,9.6,"AI, Data",Data,3,0,—,Manager
+Amit,20,F,IT,7.6,"Python, ML",Tech,2,2,—,ML Engineer
+John,20,M,CSE,9.1,Web,Management,4,3,—,AI Engineer
+Simran,20,F,CE,9.9,SQL,Business,0,1,—,Manager
+Priya,20,F,ECE,7.1,"Web, SQL",Business,5,3,—,Business Analyst
+Amit,24,F,CE,7.9,"Python, Java",Data,5,1,—,AI Engineer
+Vikram,25,M,ME,9.6,"Java, Data",Data,2,2,—,Business Analyst
+Sara,24,M,EEE,9.7,"SQL, C++, AI",Data,4,1,—,ML Engineer
+Sara,20,F,EEE,7,AI,Data,1,0,—,Software Developer
+John,23,M,CE,9.4,"C++, Data, AI",Tech,5,0,—,Software Developer
+Simran,25,M,ECE,7.5,"SQL, ML, Web",Data,2,1,—,Business Analyst
+Priya,23,M,ME,9.3,AI,Tech,2,0,—,Business Analyst
+Karan,24,M,CE,7,Python,Tech,2,3,—,Data Scientist
+Amit,22,F,CSE,7,"Java, Web",Tech,5,1,—,Manager
+Anjali,24,M,IT,6.9,AI,Management,0,0,—,Business Analyst
+Ravi,21,M,ECE,8.9,Data,Tech,1,3,—,Data Scientist
+Neha,20,F,CSE,8.9,SQL,Tech,5,3,—,Data Scientist
+Sara,25,F,ME,7.2,"ML, AI, Java",Data,3,3,—,AI Engineer
+Neha,23,M,ME,7.7,C++,Tech,3,1,—,ML Engineer
+Vikram,22,M,CE,9.4,"C++, Python",Data,2,2,—,ML Engineer
+Vikram,21,M,CE,6.5,Python,Business,1,0,—,AI Engineer
+Priya,24,F,ECE,7.2,"Web, C++, ML",Management,0,0,—,AI Engineer
+Anjali,24,M,ECE,9.1,"Java, SQL",Management,3,1,—,ML Engineer
+Simran,22,M,CSE,8.6,Web,Data,5,2,—,ML Engineer
+Karan,20,M,ECE,9.6,"ML, C++",Tech,5,2,—,AI Engineer
+Sara,22,F,IT,8,SQL,Tech,5,2,—,Business Analyst
+Sara,24,F,EEE,8.8,Python,Business,5,0,—,Software Developer
+John,24,M,EEE,9.6,"Java, ML, C++",Business,4,0,—,Data Scientist
+Anjali,21,M,ME,7.5,"Python, SQL",Tech,4,1,—,ML Engineer
+Amit,22,F,ECE,8.6,"ML, Java",Business,4,1,—,Data Scientist
+Simran,20,F,CE,7.5,"SQL, AI",Tech,5,3,—,ML Engineer
+Karan,22,M,CE,9.7,"Java, ML",Data,2,2,—,ML Engineer
+Ravi,21,M,CSE,9.6,"Data, SQL, ML",Tech,5,1,—,Manager
+Amit,23,F,CE,9.3,"AI, C++",Tech,5,0,—,AI Engineer
+Sara,25,F,IT,9.2,Java,Data,5,2,—,ML Engineer
+John,20,F,IT,7.7,Java,Tech,1,0,—,AI Engineer
+Karan,22,F,ME,9.7,"ML, Web, Python",Management,3,0,—,Business Analyst
+Karan,24,M,ECE,7.5,"AI, Java",Data,5,2,—,AI Engineer
+Vikram,23,F,CE,7.8,"C++, Web, SQL",Data,2,0,—,Data Scientist
+Karan,20,M,IT,9.8,"Web, Data, AI",Management,5,3,—,Software Developer
+Anjali,22,F,CSE,7.6,Data,Business,0,3,—,Business Analyst
+Sara,25,M,ECE,7.8,"ML, AI",Data,4,0,—,Business Analyst
+Vikram,20,M,CSE,7.4,"SQL, Java, Web",Management,3,1,—,Manager
+Vikram,23,F,IT,6.8,"Web, ML",Data,1,1,—,Data Scientist
+Karan,23,F,CSE,8.7,"C++, AI, Web",Data,3,0,—,Business Analyst
+Priya,20,F,CSE,9.6,ML,Management,2,2,—,Data Scientist
+Anjali,22,M,EEE,8,"Java, C++",Tech,4,1,—,ML Engineer
+Sara,21,F,ECE,6.8,"Java, Python, Data",Management,5,3,—,Data Scientist
+Amit,23,F,CE,7.4,Java,Tech,0,1,—,Software Developer
+Ravi,25,M,ECE,7,SQL,Management,2,0,—,Business Analyst
+Sara,23,F,CSE,7.7,"Java, Python",Business,3,0,—,AI Engineer
+Ravi,24,M,ME,6.8,SQL,Business,4,3,—,Manager
+Ravi,20,M,ME,6.7,"AI, Python, Data",Data,5,0,—,Software Developer
+Simran,21,F,EEE,8.6,"Python, ML",Business,5,2,—,Data Scientist
+Karan,25,M,EEE,7.3,Java,Management,3,3,—,ML Engineer
+Neha,22,M,IT,8.9,"ML, Web",Management,5,0,—,Data Scientist
+Anjali,23,F,ME,8.8,C++,Business,3,1,—,Manager
+Vikram,22,F,EEE,9.2,"Data, Web, Java",Data,3,0,—,Manager
+Anjali,20,M,IT,7,"AI, C++, Java",Data,3,0,—,Manager
+Anjali,23,F,EEE,7.8,"SQL, ML",Management,4,1,—,Business Analyst
+Neha,20,M,CSE,8.7,"SQL, Python",Management,4,2,—,ML Engineer
+Sara,21,M,EEE,8.7,Java,Business,3,1,—,Data Scientist
+Priya,21,F,ECE,9.4,Web,Management,1,3,—,ML Engineer
+Simran,23,M,CE,9.4,C++,Business,2,3,—,Business Analyst
+Ravi,25,M,IT,8,"AI, Java",Business,4,3,—,AI Engineer
+Karan,24,M,CSE,8.4,"ML, Web",Management,5,2,—,AI Engineer
+Sara,25,F,IT,9.2,"Web, Java",Tech,0,0,—,Data Scientist
+Priya,24,M,CE,9.9,"C++, AI, Data",Tech,1,0,—,Manager
+Priya,23,F,CE,8,"SQL, C++, Web",Data,4,1,—,AI Engineer
+John,25,F,ECE,10,"ML, Data, Web",Management,2,1,—,AI Engineer
+Amit,23,M,ECE,7.9,"SQL, Data, C++",Tech,3,0,—,AI Engineer
+Ravi,23,M,ME,9.1,C++,Business,4,2,—,ML Engineer
+Anjali,21,F,EEE,7,"Java, Python",Tech,4,0,—,AI Engineer
+Sara,22,F,CSE,9.6,"ML, AI, Python",Business,0,1,—,Software Developer
+Ravi,25,M,CSE,7.3,"Web, AI, ML",Data,3,0,—,Software Developer
+Sara,23,M,EEE,6.8,Python,Business,2,1,—,AI Engineer
+Anjali,22,M,ECE,7.4,"SQL, ML, Python",Data,2,0,—,AI Engineer
+Anjali,25,F,ME,9.4,"Java, Web, Data",Data,0,0,—,Data Scientist
+Vikram,21,F,ME,9.3,"Python, Web",Data,2,1,—,Manager
+Ravi,25,F,CE,7.8,AI,Tech,2,1,—,Software Developer
+Sara,23,M,EEE,8.6,Data,Tech,1,3,—,ML Engineer
+Ravi,25,F,CSE,8.1,"SQL, AI, ML",Management,1,1,—,Manager
+Amit,24,F,ECE,8.9,ML,Tech,3,3,—,Business Analyst
+Karan,25,M,CSE,6.9,"C++, Python",Management,3,0,—,ML Engineer
+Ravi,25,M,ME,8.2,"SQL, C++",Data,2,0,—,Data Scientist
+Neha,24,F,ECE,10,"SQL, Web",Management,1,3,—,ML Engineer
+Neha,25,M,EEE,9.1,"AI, ML, Python",Tech,4,2,—,Data Scientist
+Vikram,25,F,ME,9.1,"SQL, AI",Tech,2,0,—,AI Engineer
+Amit,21,M,ECE,7.3,"SQL, ML",Data,5,2,—,Software Developer
+Karan,21,F,IT,9.7,"Java, ML, Data",Business,4,2,—,Business Analyst
+Anjali,24,F,ECE,7.8,"Python, Web, ML",Management,4,2,—,ML Engineer
+Vikram,20,M,IT,9.8,"C++, Python, SQL",Business,5,3,—,ML Engineer
+Karan,20,F,CE,8.4,SQL,Tech,5,2,—,Manager
+Amit,22,M,ECE,9,Python,Tech,4,3,—,Business Analyst
+Anjali,22,M,CE,8.9,"Java, AI, Web",Tech,2,2,—,Data Scientist
+Neha,22,M,EEE,7.6,"C++, Python, Java",Management,2,2,—,AI Engineer
+Amit,25,M,IT,7.6,AI,Business,0,2,—,ML Engineer
+Karan,20,F,ECE,8.6,C++,Tech,5,3,—,Business Analyst
+Simran,22,F,CSE,9.2,"Python, Web, Java",Business,4,0,—,ML Engineer
+Simran,22,F,ECE,8.1,"ML, Web, Java",Tech,4,3,—,Software Developer
+Ravi,23,M,EEE,8.9,Data,Tech,1,1,—,Manager
+Karan,20,M,ME,6.7,"Python, AI",Data,4,0,—,Software Developer
+Amit,23,F,ME,7.2,Python,Data,2,2,—,Software Developer
+Neha,20,F,EEE,9.9,"Python, Java, Web",Business,5,2,—,ML Engineer
+John,25,F,CE,9.3,Data,Data,2,0,—,AI Engineer
+Neha,25,F,CE,9,"Web, AI",Tech,5,0,—,Manager
+Vikram,23,M,CSE,6.8,"ML, Python",Data,1,2,—,Business Analyst
+Vikram,20,F,EEE,6.8,"Java, AI, Data",Business,4,1,—,Software Developer
+Sara,23,F,EEE,9.4,"Web, Data",Tech,0,3,—,Manager
+Vikram,25,M,ME,7.9,"Data, Java",Business,4,1,—,Data Scientist
+Neha,20,F,CE,8.9,"AI, Data",Tech,5,1,—,Manager
+John,24,F,CE,10,"ML, Python",Business,3,1,—,Manager
+Simran,25,F,ECE,8.4,"SQL, Data",Tech,1,0,—,ML Engineer
+Karan,22,M,EEE,8.8,"Web, SQL, AI",Business,5,3,—,Data Scientist
+John,24,F,CE,8.7,"Web, SQL, Data",Tech,0,1,—,ML Engineer
+Amit,24,M,ECE,9.9,"Web, AI",Data,2,2,—,AI Engineer
+Vikram,21,M,ME,7.4,"ML, AI, Web",Data,4,0,—,Manager
+John,25,M,CSE,9.1,"Web, ML",Data,0,2,—,Software Developer
+Neha,21,F,CE,9.7,"SQL, Python, ML",Tech,3,0,—,Business Analyst
+Ravi,21,F,CE,7.7,"ML, SQL, Web",Data,2,0,—,Software Developer
+Sara,20,M,ECE,8.1,"C++, Web",Tech,0,1,—,AI Engineer
+Priya,23,F,ECE,9.1,SQL,Tech,0,1,—,Data Scientist
+Neha,21,F,ECE,8.6,Data,Data,3,3,—,AI Engineer
+Ravi,20,M,ME,8.5,"C++, Python",Tech,2,3,—,Business Analyst
+Simran,25,M,ECE,6.8,"C++, AI, Data",Management,1,0,—,ML Engineer
+Vikram,21,F,CSE,9.6,"C++, Java",Business,1,1,—,AI Engineer
+Simran,20,F,EEE,6.7,"Web, Data, ML",Business,1,1,—,ML Engineer
+Neha,20,M,EEE,8,AI,Tech,1,2,—,Business Analyst
+Anjali,22,M,IT,9.3,"Java, C++, Data",Management,4,0,—,Business Analyst
+Sara,23,F,ECE,9.8,"ML, Java, Python",Tech,0,3,—,Software Developer
+Karan,23,M,CSE,8.8,"ML, SQL",Business,5,3,—,Manager
+Sara,24,M,EEE,9.9,"Python, Data",Data,4,2,—,ML Engineer
+John,21,F,CSE,7.6,ML,Tech,5,2,—,ML Engineer
+Karan,23,F,EEE,7.5,"Data, Python, SQL",Data,3,0,—,AI Engineer
+Simran,20,M,EEE,9.7,AI,Management,3,2,—,Data Scientist
+Anjali,22,F,IT,8.8,"AI, C++, Python",Business,5,2,—,ML Engineer
+Neha,24,M,IT,8.4,"AI, Data, Web",Data,1,1,—,Manager
+Amit,24,M,ECE,7.1,"Data, SQL",Data,0,0,—,Business Analyst
+Ravi,24,F,ECE,7.3,"Data, ML, Web",Business,0,3,—,Business Analyst
+Vikram,22,M,CE,9.3,"Data, Web, AI",Business,2,1,—,AI Engineer
+Karan,20,M,ECE,8.5,"AI, Web",Data,0,2,—,Data Scientist
+Simran,25,M,CSE,8.6,Python,Business,1,1,—,Software Developer
+Anjali,22,F,EEE,8.8,ML,Data,3,2,—,Software Developer
+Sara,21,M,EEE,8.3,"SQL, AI",Data,4,2,—,Data Scientist
+Anjali,23,M,EEE,9,C++,Tech,2,0,—,Software Developer
+Karan,23,M,ECE,9.9,"ML, Python",Tech,0,2,—,ML Engineer
+Simran,21,M,EEE,9,Python,Tech,0,0,—,Manager
+Anjali,21,M,ME,8.6,"SQL, Java",Management,3,3,—,Data Scientist
+John,22,F,CE,9,"C++, Data, Python",Management,1,1,—,ML Engineer
+Sara,20,F,IT,8.6,"Web, SQL, AI",Tech,2,2,—,Software Developer
+John,23,F,CSE,9.8,"SQL, ML",Data,2,2,—,Data Scientist
+Karan,21,M,ECE,9.8,C++,Management,5,1,—,ML Engineer
+Karan,21,M,CE,6.7,"Data, Java",Management,5,2,—,Business Analyst
+Amit,24,F,IT,6.5,Web,Data,0,1,—,ML Engineer
+John,22,M,ME,7,AI,Data,2,2,—,Business Analyst
+John,22,F,CE,7.4,AI,Tech,4,1,—,Data Scientist
+Priya,20,M,ME,6.5,"Data, C++",Management,1,0,—,Business Analyst
+Anjali,25,M,CSE,7.7,"Data, SQL, AI",Data,4,2,—,ML Engineer
+Ravi,22,M,ECE,6.9,"Web, Data, C++",Management,4,1,—,Manager
+John,21,M,CSE,8.4,Data,Business,2,0,—,Data Scientist
+John,20,F,CSE,8.3,"Data, Python, AI",Tech,0,2,—,ML Engineer
+Priya,25,M,CSE,8.7,AI,Management,4,0,—,Data Scientist
+Anjali,24,M,EEE,8.8,"ML, Data",Data,1,2,—,AI Engineer
+Vikram,25,M,EEE,8.7,"ML, SQL, AI",Tech,0,2,—,Manager
+Karan,23,F,IT,8.5,"Python, C++",Data,1,2,—,Software Developer
+Simran,20,M,CSE,8.8,C++,Management,2,3,—,Software Developer
+Amit,25,M,CE,8.2,"Python, ML",Tech,2,1,—,Business Analyst
+John,22,F,CE,9.6,Data,Data,5,1,—,ML Engineer
+Anjali,20,M,ECE,7.6,Java,Tech,2,2,—,ML Engineer
+Neha,24,F,IT,9.9,"C++, Java, Web",Business,2,1,—,Data Scientist
+Simran,20,M,ECE,9.4,Web,Tech,3,3,—,Business Analyst
+Priya,21,M,ME,9.6,"Python, AI",Tech,2,1,—,Software Developer
+Ravi,22,F,IT,6.9,"Python, SQL, ML",Data,2,3,—,Business Analyst
+Neha,21,M,ME,8.9,SQL,Business,5,0,—,Manager
+Sara,23,M,CE,9.2,"Python, SQL, Java",Tech,4,1,—,Business Analyst
+Priya,22,F,CE,8.8,Data,Data,4,2,—,Business Analyst
+Vikram,21,F,CE,7.7,"ML, AI",Tech,5,2,—,Data Scientist
+Priya,25,F,IT,8.3,"Web, SQL",Business,3,0,—,Data Scientist
+Priya,22,F,CSE,6.6,SQL,Data,4,1,—,Business Analyst
+Sara,23,F,CE,9.6,"ML, AI",Management,0,1,—,AI Engineer
+Amit,23,F,ME,9.6,Python,Tech,0,1,—,Manager
+Ravi,23,F,ECE,8.1,"Java, SQL, Web",Data,4,2,—,ML Engineer
+Ravi,25,M,CSE,7.4,"ML, Data, C++",Tech,5,0,—,Business Analyst
+Anjali,23,M,CSE,8.9,"Data, SQL, Web",Management,3,2,—,Software Developer
+Karan,23,M,ME,7.6,"Java, Web",Data,2,1,—,Business Analyst
+John,22,F,EEE,8.6,ML,Tech,4,1,—,Software Developer
+Karan,24,M,CE,7.7,AI,Business,4,3,—,Business Analyst
+Neha,20,M,IT,6.9,C++,Data,2,2,—,Business Analyst
+Simran,25,F,ECE,8.9,ML,Tech,4,1,—,AI Engineer
+Vikram,23,F,ECE,8.3,AI,Tech,0,3,—,Data Scientist
+Priya,21,F,ME,8.1,"C++, SQL, AI",Data,2,1,—,AI Engineer
+Sara,21,F,IT,7.4,"Web, SQL",Data,2,2,—,ML Engineer
+Neha,23,M,CSE,8.1,"AI, ML",Data,5,0,—,AI Engineer
+Ravi,23,F,IT,8.3,"C++, Web",Data,5,0,—,Business Analyst
+Sara,21,M,ME,9,C++,Tech,0,2,—,ML Engineer
+Priya,21,M,ECE,7.2,"ML, AI, Python",Tech,0,2,—,Data Scientist
+John,22,M,CE,7.9,Java,Data,1,3,—,Business Analyst
+John,20,F,CE,9.6,SQL,Management,1,2,—,Business Analyst
+Priya,25,F,ME,7.6,"ML, Java, SQL",Tech,5,2,—,ML Engineer
+Priya,21,F,CE,8.5,SQL,Management,5,1,—,Manager
+Neha,22,F,CE,6.9,"AI, Web",Business,5,1,—,Software Developer
+Neha,24,F,EEE,7.1,"Data, AI",Data,4,1,—,Data Scientist
+Vikram,21,F,EEE,9.4,SQL,Tech,2,0,—,Software Developer
+Neha,23,M,CE,9.2,"Python, AI",Business,4,1,—,AI Engineer
+Ravi,20,M,IT,9,Web,Data,3,2,—,Software Developer
+John,25,F,IT,7.8,Web,Data,5,1,—,Manager
+Neha,22,M,IT,8.4,"AI, Python",Data,0,0,—,Software Developer
+Amit,25,F,ME,8,"ML, Web",Tech,0,1,—,ML Engineer
+John,24,F,ME,6.9,"SQL, AI",Data,2,2,—,Software Developer
+Ravi,21,F,CE,8.6,Data,Business,3,3,—,Data Scientist
+Amit,21,M,IT,9.8,"AI, ML, Java",Business,0,1,—,Software Developer
+Amit,24,M,ECE,8.7,"Python, AI, ML",Business,3,1,—,Business Analyst
+Karan,21,M,CSE,9.3,"ML, Python",Business,1,2,—,Data Scientist
+Priya,20,M,ECE,9.6,C++,Management,3,3,—,Business Analyst
+Neha,20,F,EEE,6.7,SQL,Tech,5,0,—,Data Scientist
+Anjali,25,M,IT,7.8,"C++, SQL",Tech,5,1,—,Business Analyst
+Simran,20,M,CSE,9.6,"SQL, AI",Management,1,2,—,Software Developer
+Vikram,23,F,EEE,7,AI,Business,2,0,—,ML Engineer
+Vikram,20,M,ME,6.6,AI,Management,2,0,—,Manager
+Neha,22,M,ECE,9.7,Python,Tech,1,1,—,Business Analyst
+Sara,21,F,CSE,7.3,AI,Management,0,1,—,Data Scientist
+Karan,24,F,ECE,6.9,"AI, Java, C++",Business,0,0,—,Business Analyst
+Vikram,25,M,EEE,7.5,Data,Tech,5,3,—,AI Engineer
+Priya,22,F,EEE,8.1,"Python, Java",Management,5,3,—,AI Engineer
+Anjali,22,F,ECE,7.1,"SQL, Java",Management,0,0,—,Data Scientist
+Neha,23,M,ME,6.5,"Java, SQL, AI",Data,3,1,—,AI Engineer
+Anjali,20,M,ECE,7.4,"C++, ML",Business,2,2,—,ML Engineer
+Simran,24,M,EEE,9.8,"SQL, Java, ML",Data,0,3,—,Data Scientist
+Priya,23,M,ECE,7,"Web, ML, Data",Business,1,2,—,Software Developer
+Priya,23,M,CE,8.7,AI,Data,3,0,—,Business Analyst
+Karan,23,F,CE,9.4,"SQL, ML",Business,3,0,—,Manager
+Priya,20,F,CE,7.2,"Java, Web, ML",Tech,0,1,—,Data Scientist
+Neha,24,M,CSE,9.3,"ML, SQL",Data,5,2,—,ML Engineer
+Ravi,20,F,EEE,7,SQL,Tech,5,2,—,Business Analyst
+Priya,20,M,IT,8,"Python, Java, C++",Data,1,3,—,Software Developer
+Ravi,24,M,CE,7.4,"AI, Web, ML",Tech,3,2,—,Manager
+Amit,23,M,CE,6.8,C++,Data,0,1,—,Business Analyst
+John,23,M,CE,8.6,Data,Data,0,2,—,Data Scientist
+Ravi,23,M,CSE,10,"Python, Web, SQL",Management,1,1,—,ML Engineer
+Ravi,21,F,ME,7.7,C++,Management,1,2,—,AI Engineer
+Neha,20,F,IT,8.7,"Data, Python, Web",Business,3,2,—,ML Engineer
+Ravi,25,M,EEE,7.3,"Python, Java, AI",Management,1,1,—,Software Developer
+Anjali,23,M,IT,6.7,"Web, AI, ML",Business,1,0,—,ML Engineer
+John,20,M,EEE,8.4,"ML, Java",Tech,2,3,—,AI Engineer
+Neha,20,M,ME,9,"Web, AI, Java",Business,4,2,—,AI Engineer
+John,25,F,ECE,9,"Java, ML, Web",Management,3,1,—,ML Engineer
+John,23,F,ME,7.4,"Java, SQL",Tech,2,0,—,ML Engineer
+Neha,24,M,ME,8.3,"Web, ML",Business,0,2,—,Manager
+Ravi,21,M,ECE,9.1,"Python, Data",Business,2,0,—,ML Engineer
+Priya,25,F,EEE,8,"C++, AI",Tech,4,3,—,Software Developer
+Karan,24,M,EEE,8.9,"ML, Data, Python",Tech,2,1,—,Manager
+Ravi,21,M,ME,9,"Python, ML, C++",Management,0,0,—,Business Analyst
+Simran,25,F,EEE,8.6,"Data, ML, Java",Tech,4,1,—,Data Scientist
+Priya,21,M,IT,7.2,"C++, Java",Data,0,2,—,Business Analyst
+Simran,25,M,ME,6.8,"Java, SQL, Web",Business,3,1,—,ML Engineer
+Priya,25,M,CE,9.6,"AI, C++",Tech,3,1,—,Software Developer
+Sara,22,M,ECE,7.8,"SQL, AI",Management,3,1,—,ML Engineer
+Anjali,23,M,CE,8.9,"ML, Python",Data,1,2,—,ML Engineer
+Karan,21,F,ME,6.6,"SQL, Java, Web",Tech,3,2,—,Software Developer
+Anjali,25,F,CE,7.9,Web,Business,4,2,—,Software Developer
+Anjali,25,F,CE,8.6,Java,Business,5,2,—,AI Engineer
+Vikram,22,F,EEE,9.3,"SQL, ML",Management,5,2,—,Manager
+Sara,25,F,EEE,8.8,"Java, AI, Data",Management,2,0,—,ML Engineer
+Neha,20,F,ME,7,SQL,Management,5,0,—,Data Scientist
+Vikram,23,F,EEE,9.8,Web,Tech,3,2,—,Software Developer
+Neha,25,F,EEE,9.9,Java,Business,4,2,—,Manager
+Vikram,25,M,ME,7.2,"C++, Data, Python",Tech,4,1,—,Software Developer
+Karan,24,F,ECE,9.3,"ML, Web",Management,2,0,—,Manager
+Sara,24,F,CE,8.6,"ML, Web",Business,3,3,—,Manager
+Vikram,21,F,IT,6.9,Web,Management,1,0,—,Business Analyst
+Sara,25,M,ME,6.7,Java,Management,5,2,—,AI Engineer
+Karan,24,M,ME,9.8,AI,Management,5,0,—,Manager
+Simran,23,M,ECE,9.3,Data,Tech,4,0,—,AI Engineer
+Amit,25,M,IT,9.3,"SQL, C++",Tech,0,2,—,Software Developer
+Anjali,20,F,ECE,7.6,Python,Tech,4,2,—,Data Scientist
+Amit,21,F,ME,8.1,"ML, Java, SQL",Business,2,0,—,Business Analyst
+John,23,F,EEE,7.2,Web,Management,1,2,—,Business Analyst
+Amit,24,F,ECE,8.1,"ML, Web, Java",Business,1,2,—,Software Developer
+Vikram,22,M,ME,9.4,SQL,Management,2,0,—,ML Engineer
+Vikram,20,F,CSE,6.5,"C++, Web",Business,3,0,—,Data Scientist
+John,25,F,ECE,8.5,SQL,Business,4,1,—,Data Scientist
+Neha,21,M,CSE,8.9,"C++, SQL",Tech,2,1,—,AI Engineer
+Vikram,20,F,CSE,9.6,"Python, C++, Web",Data,1,3,—,Software Developer
+Amit,24,M,ECE,10,AI,Management,1,0,—,Software Developer
+Priya,21,M,CE,8.1,"Web, SQL, Java",Tech,0,3,—,Data Scientist
+Neha,25,F,CSE,8.4,"Python, ML",Tech,0,1,—,ML Engineer
+Sara,24,F,CSE,6.9,"Data, Python, SQL",Management,1,2,—,ML Engineer
+Priya,23,M,CSE,8.4,"Web, Java, Python",Business,0,0,—,ML Engineer
+Neha,22,F,ME,7,AI,Data,2,2,—,Business Analyst
+Karan,23,M,ME,8,"Java, AI",Management,1,2,—,Data Scientist
+Ravi,25,F,ECE,8.1,"Data, Web, C++",Tech,5,3,—,Data Scientist
+John,25,M,IT,7.8,"Data, Java, AI",Business,1,3,—,Manager
+John,24,M,ME,8.7,"SQL, Python",Business,1,0,—,AI Engineer
+Vikram,23,F,EEE,9.1,"ML, SQL",Tech,3,1,—,Data Scientist
+Anjali,22,F,ECE,8.1,AI,Business,0,1,—,Business Analyst
+Anjali,25,F,IT,8,Web,Tech,1,1,—,ML Engineer
+Vikram,20,F,EEE,6.6,"Java, Web",Business,3,2,—,Software Developer
+Simran,21,M,EEE,8.4,Web,Management,3,2,—,AI Engineer
+Ravi,25,F,IT,7.1,"Java, Data",Tech,1,2,—,ML Engineer
+Vikram,23,M,ECE,6.7,"Python, Java",Data,5,2,—,Business Analyst
+Neha,22,F,CE,9.8,"ML, Java",Business,4,0,—,ML Engineer
+Vikram,25,F,CE,6.8,"Data, Java",Data,4,0,—,Software Developer
+Vikram,23,F,ME,7.5,"C++, ML",Management,4,3,—,ML Engineer
+Anjali,21,F,ME,8.4,"Web, SQL, C++",Management,0,1,—,Business Analyst
+Ravi,23,F,EEE,7.9,"AI, Web",Data,0,3,—,Software Developer
+Priya,21,M,CSE,9.1,AI,Management,0,3,—,Business Analyst
+Priya,23,F,ECE,8.8,"Web, Python, AI",Tech,3,3,—,Software Developer
+Karan,23,F,EEE,7.5,Java,Data,5,3,—,Business Analyst
+Karan,23,F,CSE,7.2,AI,Business,1,1,—,ML Engineer
+Neha,25,M,CSE,8.8,Java,Data,2,1,—,Data Scientist
+Vikram,24,F,IT,7.7,"Web, Python",Tech,2,2,—,AI Engineer
+Sara,24,M,EEE,7.8,Web,Management,1,0,—,Data Scientist
+Sara,21,F,ECE,7.2,"C++, Web",Business,5,0,—,Manager
+Ravi,21,F,ECE,9,"Data, AI, Web",Data,2,3,—,Software Developer
+Simran,21,F,ECE,6.8,Data,Business,0,2,—,Software Developer
+John,20,F,IT,9.9,"ML, Data, Java",Business,2,2,—,ML Engineer
+Sara,21,M,ECE,7.7,"AI, Python, ML",Data,1,3,—,ML Engineer
+Sara,22,F,EEE,9.6,"Web, C++",Management,1,1,—,Manager
+John,21,M,CSE,8.7,"ML, Java, SQL",Tech,0,1,—,Manager
+Anjali,24,M,CSE,9.7,"Java, C++",Business,2,0,—,Software Developer
+Amit,20,F,ECE,8.6,"Web, ML",Management,2,2,—,ML Engineer
+Anjali,22,F,ME,7.8,Data,Business,0,3,—,Software Developer
+Vikram,25,F,ECE,8,"AI, C++, SQL",Business,5,0,—,Data Scientist
+Amit,24,F,CSE,7.9,Java,Management,1,3,—,Data Scientist
+Neha,20,F,EEE,8.6,Python,Business,2,0,—,Manager
+Neha,22,M,EEE,9.7,Java,Management,0,2,—,Data Scientist
+Simran,24,F,CE,9.6,"Data, SQL, ML",Tech,3,1,—,Manager
+Ravi,23,F,EEE,8.6,"Web, Python",Data,0,0,—,AI Engineer
+Simran,20,F,CSE,9.3,"ML, Java",Tech,2,1,—,AI Engineer
+Priya,22,F,ECE,9.1,"SQL, Java, AI",Data,0,2,—,ML Engineer
+Simran,24,F,EEE,9.7,"ML, AI",Tech,0,3,—,Software Developer
+Karan,21,F,ME,8.7,"AI, Java",Business,5,3,—,ML Engineer
+John,22,F,ME,7.8,"Data, Java, Python",Data,3,3,—,Business Analyst
+Priya,22,M,ECE,8.9,"C++, Data, ML",Data,1,3,—,Manager
+Vikram,20,F,ME,8.6,Java,Business,0,2,—,ML Engineer
+John,25,F,CE,9.2,Web,Management,3,2,—,AI Engineer
+John,24,M,ECE,6.8,Data,Data,5,1,—,ML Engineer
+Ravi,20,F,CSE,8.8,"AI, Java",Management,3,1,—,AI Engineer
+Simran,21,F,CSE,8.9,"Java, SQL, ML",Tech,2,3,—,ML Engineer
+Anjali,22,M,ME,9.4,"Data, Java",Tech,2,3,—,Manager
+Neha,21,M,ME,9,"ML, Java, Web",Management,3,3,—,Business Analyst
+Anjali,23,F,ME,8.6,"Data, SQL",Business,0,3,—,Business Analyst
+Ravi,23,M,CE,7.2,"Data, Web, AI",Tech,3,0,—,ML Engineer
+Sara,24,M,IT,8.3,"ML, Java, Web",Business,4,2,—,Manager
+Neha,25,M,CE,7.7,"SQL, AI",Data,5,0,—,Data Scientist
+Neha,23,M,CE,9.3,"Python, Data, Java",Data,5,1,—,AI Engineer
+Karan,20,M,ME,9.8,Python,Management,4,2,—,Data Scientist
+John,21,M,ME,8,"ML, Python, C++",Business,1,3,—,Software Developer
+Anjali,24,F,EEE,7.4,"AI, C++, ML",Business,0,2,—,Data Scientist
+Simran,23,F,ME,8.5,"Web, AI, Data",Business,3,0,—,ML Engineer
+Karan,25,F,EEE,6.6,"Data, Web",Management,5,3,—,ML Engineer
+Neha,20,F,IT,8,Web,Tech,5,0,—,Business Analyst
+Anjali,24,M,ECE,7.2,"SQL, AI",Data,1,3,—,ML Engineer
+Ravi,24,F,ME,8.5,"SQL, Data",Management,3,1,—,Software Developer
+Simran,21,F,CSE,9.8,Java,Business,2,1,—,Software Developer
+Karan,24,M,CE,7.2,"Web, AI, Python",Management,0,1,—,AI Engineer
+Simran,20,F,ECE,8.4,"AI, ML",Business,3,0,—,Business Analyst
+Sara,25,F,ME,7.5,Java,Management,1,2,—,Manager
+Sara,20,M,CE,6.5,"Data, C++, AI",Business,0,1,—,AI Engineer
+Sara,25,M,IT,6.7,"Data, AI, C++",Data,4,0,—,Software Developer
+Anjali,21,M,IT,8.1,Java,Business,2,1,—,AI Engineer
+Simran,22,F,ME,8.7,"Data, Web",Data,3,3,—,AI Engineer
+Priya,25,F,ECE,6.7,"AI, C++",Data,1,0,—,ML Engineer
+Karan,25,M,ECE,8.7,"SQL, Web, Data",Business,0,2,—,ML Engineer
+Priya,22,F,ME,9.5,"Java, C++, AI",Data,3,3,—,Software Developer
+Simran,23,M,IT,6.9,Python,Business,1,3,—,Software Developer
+Priya,20,F,CSE,6.9,SQL,Business,2,1,—,Software Developer
+Vikram,23,F,ECE,6.6,"SQL, Java",Data,5,2,—,AI Engineer
+Sara,20,F,ME,8.1,"SQL, ML, Web",Tech,1,1,—,Software Developer
+Vikram,20,F,ME,9.7,Java,Tech,2,2,—,Software Developer
+Anjali,21,M,ME,7.9,"Web, C++",Business,0,1,—,Business Analyst
+Karan,21,M,IT,9.8,"Web, Python",Business,2,3,—,AI Engineer
+John,22,F,EEE,7.7,"Data, C++",Management,4,0,—,ML Engineer
+Neha,24,F,CE,8.3,ML,Business,5,1,—,Software Developer
+Neha,20,M,EEE,7,"Python, SQL",Management,2,2,—,ML Engineer
+Simran,25,M,EEE,9,"SQL, Web, ML",Business,0,1,—,Data Scientist
+Anjali,25,M,CE,6.9,"C++, Web",Tech,5,2,—,ML Engineer
+Sara,20,F,EEE,9.8,"SQL, Java, AI",Tech,3,0,—,Software Developer
+Neha,25,M,CE,6.8,AI,Tech,0,1,—,Data Scientist
+Karan,25,M,ME,6.8,"Python, Data",Business,5,0,—,AI Engineer
+Simran,20,F,ME,8.9,"C++, Data, ML",Management,4,1,—,Manager
+Vikram,25,F,ME,8.5,"AI, Data, Java",Data,0,2,—,Manager
+Vikram,25,M,CE,9.2,Web,Tech,4,0,—,Manager
+Priya,20,M,EEE,7.6,Data,Tech,1,1,—,Manager
+Neha,23,F,CSE,9,"SQL, Python",Business,3,0,—,Data Scientist
+Priya,24,M,CSE,7,"ML, C++, Python",Data,3,0,—,AI Engineer
+Simran,24,M,ME,9.6,AI,Business,5,0,—,Data Scientist
+Neha,25,M,EEE,7.9,"Python, AI, ML",Business,4,1,—,Software Developer
+Karan,21,M,ECE,7.2,ML,Management,3,1,—,Data Scientist
+Priya,21,M,ECE,9.5,ML,Data,4,2,—,Business Analyst
+Sara,25,F,CE,7.5,"AI, C++, ML",Tech,5,2,—,Manager
+Neha,25,M,IT,8.7,"Python, Data, Java",Data,4,3,—,Business Analyst
+Ravi,21,F,CE,8.4,"AI, SQL, Python",Business,2,3,—,AI Engineer
+Anjali,24,M,IT,8.3,C++,Data,0,2,—,AI Engineer
+Vikram,20,M,IT,7.6,"Java, Data, Python",Business,0,1,—,Data Scientist
+John,20,M,CSE,8.8,"AI, Data",Data,5,1,—,ML Engineer
+Priya,22,F,ECE,8.1,Data,Tech,0,0,—,Manager
+Amit,21,M,ME,9.7,Data,Management,3,3,—,Manager
+Vikram,21,F,IT,9.7,"SQL, ML",Business,4,0,—,Manager
+Ravi,21,M,CE,7.6,"Java, C++, Web",Management,4,2,—,Business Analyst
+Ravi,20,F,ME,6.9,AI,Management,1,1,—,Software Developer
+Sara,21,M,CE,8.2,"C++, Python, Data",Data,3,1,—,Business Analyst
+Amit,25,F,CE,8.9,"ML, Python",Tech,3,2,—,Manager
+John,20,F,EEE,9.2,Java,Management,5,0,—,AI Engineer
+Priya,21,F,ME,9.3,"Data, SQL",Business,3,3,—,Manager
+Ravi,25,F,EEE,8.2,Java,Business,5,0,—,ML Engineer
+Amit,25,M,CSE,9.2,"Java, SQL",Business,0,1,—,Software Developer
+Amit,20,M,EEE,8.2,"SQL, Python",Management,3,3,—,Data Scientist
+Neha,22,M,CE,9.8,"Web, Data, Java",Data,2,3,—,Manager
+Karan,24,M,ME,9,Web,Management,1,1,—,ML Engineer
+Vikram,22,F,IT,8.5,"Web, AI, ML",Tech,2,2,—,Data Scientist
+Ravi,22,M,IT,6.9,"AI, SQL, C++",Business,0,0,—,ML Engineer
+Karan,25,M,CSE,8.1,"SQL, C++",Tech,4,1,—,AI Engineer
+Ravi,25,F,EEE,9.8,Data,Tech,3,0,—,Business Analyst
+Vikram,20,M,EEE,9.1,ML,Management,0,2,—,Software Developer
+Simran,23,M,CE,6.9,Web,Tech,3,0,—,Business Analyst
+Simran,25,M,EEE,9.6,"SQL, Java",Management,5,1,—,Manager
+Simran,22,F,ME,9.5,"Web, SQL",Data,4,0,—,ML Engineer
+Amit,20,M,CE,8.5,"Data, Java, Python",Management,2,2,—,ML Engineer
+Karan,25,F,CE,8.2,"ML, Java",Business,2,3,—,AI Engineer
+Karan,24,F,CE,9,"Web, Data, AI",Data,4,2,—,Software Developer
+Ravi,23,F,IT,9.1,Data,Data,0,1,—,Manager
+Simran,21,M,ME,7.6,"Java, C++, SQL",Management,1,1,—,ML Engineer
+Ravi,22,F,CSE,7.5,Web,Business,5,1,—,Business Analyst
+Anjali,24,M,IT,9,"Data, Java",Business,0,1,—,Data Scientist
+Neha,23,M,IT,9.6,Java,Tech,2,3,—,Business Analyst
+Anjali,21,F,CE,8.5,Python,Business,0,2,—,ML Engineer
+Sara,24,M,CE,7.3,"Web, SQL, Java",Management,0,1,—,Manager
+Sara,23,F,CSE,8.4,Web,Tech,2,2,—,Data Scientist
+Ravi,23,M,EEE,8.5,Data,Management,2,0,—,ML Engineer
+Karan,25,F,EEE,7.3,"AI, ML, SQL",Business,5,1,—,Manager
+Anjali,23,F,EEE,9.1,"Web, C++, AI",Management,0,1,—,ML Engineer
+Amit,20,M,ME,8.7,Data,Management,4,0,—,Manager
+Neha,24,F,ME,8.3,"Python, Web, Java",Data,5,1,—,Data Scientist
+Neha,23,M,EEE,8.8,AI,Business,4,1,—,ML Engineer
+Amit,20,M,CSE,9,"SQL, C++",Tech,0,2,—,Business Analyst
+Amit,21,F,EEE,9.9,Java,Business,2,2,—,Manager
+Simran,23,F,ME,9.8,"ML, Web, SQL",Management,5,2,—,Data Scientist
+Karan,20,F,CSE,6.7,"ML, Web, Python",Business,5,3,—,Data Scientist
+Ravi,20,F,EEE,8.5,"Web, AI, Python",Management,3,1,—,Business Analyst
+John,24,M,ME,6.9,"AI, Python, Data",Business,5,1,—,ML Engineer
+Sara,25,F,EEE,7.5,C++,Tech,4,2,—,Data Scientist
+Ravi,21,F,EEE,6.5,Web,Management,3,1,—,ML Engineer
+Ravi,20,F,IT,7.1,SQL,Data,3,0,—,AI Engineer
+Karan,21,F,EEE,6.9,"Java, SQL, Python",Business,2,3,—,ML Engineer
+Karan,23,M,EEE,8.4,Web,Business,5,3,—,Software Developer
+Karan,23,M,ECE,9.3,"Python, AI",Business,1,1,—,Software Developer
+Neha,21,M,ME,7.9,ML,Data,4,2,—,Software Developer
+Vikram,22,M,EEE,8.7,"Python, Java, AI",Data,0,0,—,ML Engineer
+Neha,21,M,ME,9.6,"Python, SQL",Tech,1,1,—,Software Developer
+Vikram,21,M,EEE,7.8,"ML, SQL, Java",Data,2,2,—,Business Analyst
+Neha,24,F,CSE,8.2,"C++, Python",Data,3,1,—,Business Analyst
+Karan,21,F,ECE,8.5,"Python, ML, C++",Tech,4,3,—,AI Engineer
+John,22,F,IT,7.2,"C++, AI",Data,3,2,—,AI Engineer
+Priya,24,M,ME,6.5,"Java, Data, Web",Business,5,0,—,Software Developer
+Anjali,22,F,EEE,7,"Web, SQL, Data",Business,1,3,—,Manager
+Anjali,20,F,EEE,7.6,"Web, Java, C++",Data,3,2,—,Business Analyst
+Amit,23,M,CE,7.6,"AI, SQL",Tech,0,2,—,Business Analyst
+Ravi,23,M,EEE,9.9,"Python, Data, Web",Tech,4,2,—,Software Developer
+Sara,23,M,CSE,7,"AI, SQL, ML",Tech,2,1,—,Manager
+Anjali,21,F,ME,7.3,"AI, Web, Java",Management,5,3,—,Data Scientist
+Neha,22,M,CSE,7.8,"Java, Web, Python",Data,3,2,—,ML Engineer
+Sara,22,M,EEE,6.8,"Java, Python",Data,0,0,—,Software Developer
+Ravi,23,F,EEE,7.3,"Data, Java, Web",Business,5,3,—,ML Engineer
+Priya,25,F,CSE,9.4,C++,Management,0,2,—,Software Developer
+Sara,23,F,CE,9.5,"Web, Java, Data",Management,3,0,—,Manager
+Vikram,24,F,EEE,8.5,Python,Management,5,3,—,Software Developer
+John,25,F,CSE,8.9,SQL,Data,5,3,—,ML Engineer
+Neha,21,F,IT,7.1,"Java, C++",Management,4,0,—,AI Engineer
+Vikram,20,F,ECE,7.3,AI,Data,2,2,—,Data Scientist
+Simran,20,F,EEE,9.4,"Java, ML",Management,1,2,—,Manager
+Amit,21,M,EEE,7.7,SQL,Management,4,0,—,Business Analyst
+Sara,25,M,CE,8.5,"Java, AI, Web",Business,1,0,—,Business Analyst
+Sara,25,F,IT,9.9,"Java, Python, SQL",Tech,0,0,—,Data Scientist
+John,22,F,CE,8,ML,Management,5,2,—,Business Analyst
+Anjali,23,M,ECE,9.5,Data,Data,0,1,—,Manager
+Ravi,21,F,CSE,7.5,Python,Tech,3,2,—,Manager
+Priya,25,M,CSE,7,Python,Tech,2,2,—,Business Analyst
+Priya,22,F,ME,6.6,"Data, Python, Java",Tech,2,2,—,AI Engineer
+Priya,21,M,ME,6.9,Data,Data,4,2,—,Manager
+Anjali,23,F,ME,9,"Data, Web",Business,1,3,—,AI Engineer
+Neha,22,M,ME,8.8,ML,Management,2,0,—,Business Analyst
+Neha,22,F,IT,6.6,"SQL, Java",Tech,4,0,—,AI Engineer
+Anjali,20,F,IT,9.1,Web,Tech,2,2,—,AI Engineer
+Ravi,24,M,ECE,6.9,Python,Management,3,3,—,AI Engineer
+Sara,23,F,ECE,9.5,Data,Data,3,1,—,AI Engineer
+Ravi,21,F,IT,8.5,Web,Business,2,3,—,AI Engineer
+Ravi,24,M,CE,9.5,"Data, Java, Python",Data,3,1,—,AI Engineer
+Karan,22,F,EEE,6.6,"Data, Web",Data,2,0,—,ML Engineer
+Sara,23,M,CE,7.8,SQL,Management,4,2,—,ML Engineer
+Sara,21,M,CE,9.7,Web,Tech,1,1,—,Data Scientist
+John,20,M,ECE,7.7,"AI, SQL, Data",Tech,3,1,—,Software Developer
+Ravi,20,F,CE,8.5,Web,Data,4,2,—,ML Engineer
+Priya,20,M,CE,10,"ML, Java, C++",Tech,4,0,—,AI Engineer
+Simran,25,F,ECE,8.5,ML,Tech,1,3,—,Manager
+Sara,25,M,ME,8.4,SQL,Management,3,1,—,Manager
+Priya,23,M,CSE,9.6,"SQL, AI, ML",Data,2,1,—,ML Engineer
+Amit,20,F,ECE,7.2,"Java, Python, C++",Business,5,3,—,Software Developer
+Karan,20,F,ECE,8.2,"C++, ML",Business,5,1,—,Data Scientist
+Vikram,23,M,CSE,8.3,"SQL, Java",Tech,4,0,—,Data Scientist
+Vikram,21,F,ME,7.5,"C++, Java",Tech,5,3,—,Manager
+Priya,24,M,EEE,7.5,"ML, Web, SQL",Management,4,3,—,ML Engineer
+John,21,F,IT,9,"SQL, Data",Management,3,3,—,Software Developer
+Simran,24,M,CE,8.9,"Data, SQL, Java",Business,3,3,—,Data Scientist
+John,21,M,ECE,8.4,"Python, SQL, ML",Tech,0,0,—,AI Engineer
+Priya,20,F,IT,6.9,"Python, C++, SQL",Data,2,0,—,AI Engineer
+Anjali,20,M,CE,8.9,ML,Data,2,2,—,AI Engineer
+John,25,M,ECE,9.5,"AI, Data",Business,3,0,—,ML Engineer
+John,20,F,EEE,8.5,"ML, C++",Data,4,3,—,Manager
+Sara,22,F,EEE,8.2,"Web, Java",Tech,5,0,—,ML Engineer
+Amit,23,F,ECE,7.2,ML,Management,1,1,—,Business Analyst
+Neha,23,M,CSE,7.2,"Web, SQL, ML",Data,4,3,—,AI Engineer
+John,21,M,ME,7.4,"SQL, AI",Data,0,0,—,AI Engineer
+Priya,20,F,EEE,8,SQL,Data,3,2,—,AI Engineer
+Vikram,24,M,IT,9.8,"AI, SQL, Java",Management,4,0,—,Software Developer
+Vikram,23,F,IT,8.3,Web,Tech,2,3,—,Manager
+Karan,20,M,ECE,9.1,"Data, Python",Tech,2,2,—,Business Analyst
+Ravi,20,F,EEE,8,Python,Tech,2,3,—,Software Developer
+Sara,22,M,ECE,7.3,"Python, ML",Business,3,3,—,AI Engineer
+Simran,20,F,IT,7.8,ML,Data,4,2,—,AI Engineer
+Priya,21,F,CSE,7.3,"Java, Web, ML",Data,0,2,—,Data Scientist
+Vikram,20,F,IT,8.1,"Data, Java",Management,3,3,—,Software Developer
+Amit,21,F,ME,8.3,"ML, Python",Management,0,1,—,AI Engineer
+Priya,25,M,IT,7.5,AI,Tech,3,3,—,AI Engineer
+Ravi,22,F,ECE,6.8,AI,Tech,2,1,—,Data Scientist
+Neha,22,M,ME,7.9,"Data, Java",Management,3,3,—,Business Analyst
+Amit,21,F,ECE,8.4,Java,Tech,2,3,—,Business Analyst
+Sara,24,M,CE,7.4,"Python, Web",Data,0,1,—,Software Developer
+Amit,23,F,ME,7.1,AI,Data,0,0,—,Data Scientist
+Priya,23,M,CSE,7,AI,Tech,4,0,—,Data Scientist
+Ravi,25,F,EEE,7.1,"SQL, ML, Web",Management,1,0,—,Software Developer
+Sara,24,F,CSE,7.2,"C++, AI",Data,4,0,—,ML Engineer
+Simran,20,M,CSE,6.8,Python,Tech,1,3,—,Data Scientist
+Karan,21,M,EEE,6.9,ML,Business,0,1,—,Business Analyst
+John,23,F,CSE,9.1,"SQL, Python",Business,4,3,—,Manager
+Simran,20,F,CE,8.8,"Java, SQL",Tech,0,0,—,Manager
+Simran,25,M,EEE,9.3,"Python, Java",Management,2,3,—,Software Developer
+Priya,22,F,CE,8.2,"AI, SQL",Business,0,2,—,Data Scientist
+Anjali,22,M,ME,7.1,"Data, ML",Data,2,2,—,AI Engineer
+Karan,20,M,CE,8.3,"Data, C++",Business,0,0,—,Business Analyst
+Ravi,24,M,ME,6.5,Data,Tech,3,2,—,AI Engineer
+John,22,F,CE,7.1,"Java, Python, SQL",Tech,1,2,—,Business Analyst
+Priya,23,F,IT,7.4,"Python, Data, Java",Tech,1,0,—,Manager
+Amit,23,F,CSE,9.5,"ML, Python",Tech,3,3,—,ML Engineer
+Priya,23,F,EEE,9.5,SQL,Tech,1,3,—,Manager
+Neha,23,M,CSE,9.7,"C++, Data, Web",Tech,4,1,—,Data Scientist
+Ravi,24,M,CSE,8.1,"Java, Data, AI",Tech,5,1,—,AI Engineer
+Neha,22,F,ECE,7.3,AI,Data,5,0,—,AI Engineer
+Simran,25,F,EEE,9.1,"ML, Python, Java",Management,5,2,—,ML Engineer
+Sara,24,F,IT,8.8,"Web, Data",Business,4,0,—,Manager
+Simran,25,M,ME,7.7,"Web, C++, Python",Data,1,0,—,ML Engineer
+Neha,20,F,IT,6.9,Data,Tech,0,0,—,AI Engineer
+Priya,22,M,IT,9.8,"Data, C++",Tech,0,1,—,ML Engineer
+Karan,21,F,EEE,7.8,"SQL, C++, AI",Business,3,2,—,Business Analyst
+John,22,F,CE,7.7,AI,Tech,1,1,—,Data Scientist
+Ravi,24,M,ECE,6.8,Data,Tech,5,3,—,Manager
+Karan,21,F,CE,9.7,"AI, Data",Management,1,2,—,Manager
+Karan,25,F,ECE,6.6,"ML, Web",Data,5,0,—,Business Analyst
+Priya,25,F,ME,7.8,"C++, AI, ML",Business,3,1,—,Software Developer
+Amit,21,M,CSE,9.6,"C++, AI",Tech,4,1,—,ML Engineer
+Sara,21,M,CE,6.6,"C++, ML, Java",Data,3,0,—,ML Engineer
+John,25,F,IT,7.6,Python,Management,5,0,—,AI Engineer
+Priya,22,M,CE,9.6,"ML, Web",Data,1,1,—,Manager
+Karan,20,M,CE,8.4,Data,Business,0,3,—,ML Engineer
+Sara,21,M,EEE,7.6,"ML, Python, Data",Business,3,1,—,ML Engineer
+Vikram,24,M,ECE,8.2,Data,Business,5,1,—,Data Scientist
+Priya,24,F,CE,8.5,"Java, Web, Python",Management,1,1,—,Software Developer
+Sara,21,F,ECE,8.5,"SQL, C++, AI",Tech,3,0,—,AI Engineer
+Sara,22,M,CE,9.6,C++,Business,0,2,—,Business Analyst
+Simran,21,F,ECE,7.1,ML,Management,3,2,—,ML Engineer
+Neha,20,F,CSE,6.5,"SQL, Web",Business,5,3,—,Data Scientist
+Amit,23,M,ECE,8.7,"ML, C++, AI",Data,3,1,—,Data Scientist
+Priya,20,M,EEE,9.7,"AI, Python",Tech,1,2,—,AI Engineer
+Sara,24,M,EEE,9.5,"Java, Data, C++",Tech,5,2,—,Software Developer
+Anjali,23,M,EEE,7.4,"Web, SQL, AI",Data,5,2,—,ML Engineer
+Vikram,21,F,IT,7,SQL,Data,5,3,—,Software Developer
+Anjali,25,F,EEE,7.2,Python,Tech,1,1,—,ML Engineer
+Amit,23,F,ECE,9.8,"C++, Python, SQL",Management,5,2,—,Business Analyst
+Anjali,23,M,CSE,7,"Web, AI, Java",Business,4,3,—,ML Engineer
+Simran,22,M,CE,9,"C++, Data",Business,1,3,—,ML Engineer
+Simran,25,M,ME,8.9,"Python, AI, SQL",Business,0,0,—,ML Engineer
+Sara,23,M,IT,7.7,"C++, Python, Data",Data,0,2,—,Data Scientist
+Vikram,22,F,EEE,9.8,"AI, Data, Python",Data,4,0,—,Data Scientist
+Simran,21,M,CSE,10,"Web, Java, ML",Management,5,0,—,ML Engineer
+John,24,M,CE,9.9,SQL,Tech,2,1,—,Software Developer
+Vikram,21,F,IT,9.5,"AI, C++",Business,4,1,—,Software Developer
+Amit,25,M,ME,6.8,"C++, Web",Tech,3,3,—,Software Developer
+Sara,22,M,ME,8.6,"Data, Web, Java",Tech,5,1,—,Manager
+Neha,23,F,IT,9.3,C++,Management,4,1,—,Business Analyst
+Karan,25,M,ME,8.9,Java,Management,0,1,—,Manager
+Anjali,21,F,IT,9.8,"Python, Web, SQL",Data,2,2,—,ML Engineer
+Karan,20,M,EEE,9.2,"SQL, Data, Python",Business,2,3,—,Software Developer
+John,21,F,EEE,8.1,ML,Data,4,2,—,Manager
+Vikram,20,M,CE,8,"SQL, Data",Business,2,1,—,Manager
+Karan,21,F,IT,9,"Java, Data",Data,5,3,—,ML Engineer
+Neha,20,F,ME,7.4,"Python, AI, Web",Tech,1,0,—,ML Engineer
+Amit,25,F,ECE,7.1,"ML, Data, SQL",Tech,4,3,—,AI Engineer
+Simran,23,F,ECE,9.9,"ML, C++, Java",Data,1,3,—,Software Developer
+Vikram,23,M,IT,8.5,"ML, Java",Tech,5,1,—,ML Engineer
+Amit,23,F,CSE,7.2,"Python, ML",Tech,4,3,—,Data Scientist
+Karan,22,M,IT,9.3,"C++, Data",Business,1,3,—,ML Engineer
+Simran,25,M,ME,10,"SQL, Python, Java",Management,5,2,—,ML Engineer
+Neha,23,F,EEE,7,Web,Tech,3,1,—,AI Engineer
+zara,20,F,CSE,8.4,"AI, Data",Management,2,0,—,Software Developer
+zara,21,M,EEE,9.2,"Web, Python",Data,3,1,—,AI Engineer
+zara,22,F,ME,8.6,"Java, SQL",Tech,1,2,—,Data Scientist
+zara,23,M,IT,7.8,"C++, ML",Business,4,0,—,Manager
